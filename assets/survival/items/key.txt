@@ -1,0 +1,1 @@
+Game item pickup: a golden key with a circular bow handle and rectangular teeth, game key item. 48x48 pixels. Transparent background. Game UI sprite.

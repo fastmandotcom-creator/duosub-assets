@@ -1,0 +1,1 @@
+Game item pickup: a blue shield icon with a white inner shield, game defense pickup. 48x48 pixels. Transparent background. Game UI sprite.

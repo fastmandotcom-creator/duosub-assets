@@ -1,0 +1,1112 @@
+{
+    "textures": [
+        {
+            "image": "sprite_sheet_p1.webp",
+            "format": "RGBA8888",
+            "size": {
+                "w": 2048,
+                "h": 2048
+            },
+            "scale": "1",
+            "frames": [
+                {
+                    "filename": "teep_push_windup2",
+                    "frame": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 205,
+                        "h": 323
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 104,
+                        "y": 61,
+                        "w": 205,
+                        "h": 323
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "knee_strike_follow",
+                    "frame": {
+                        "x": 213,
+                        "y": 0,
+                        "w": 193,
+                        "h": 305
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 95,
+                        "y": 51,
+                        "w": 193,
+                        "h": 305
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "muay_thai_champ_super_shock2",
+                    "frame": {
+                        "x": 0,
+                        "y": 331,
+                        "w": 192,
+                        "h": 306
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 56,
+                        "w": 192,
+                        "h": 306
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "muay_thai_champ_super_juggle1",
+                    "frame": {
+                        "x": 0,
+                        "y": 645,
+                        "w": 184,
+                        "h": 319
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 97,
+                        "y": 43,
+                        "w": 184,
+                        "h": 319
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "dragon_thunder_recover2",
+                    "frame": {
+                        "x": 414,
+                        "y": 0,
+                        "w": 197,
+                        "h": 297
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 101,
+                        "y": 63,
+                        "w": 197,
+                        "h": 297
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "clinch_elbow_follow",
+                    "frame": {
+                        "x": 200,
+                        "y": 331,
+                        "w": 189,
+                        "h": 301
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 93,
+                        "y": 59,
+                        "w": 189,
+                        "h": 301
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "hit",
+                    "frame": {
+                        "x": 192,
+                        "y": 645,
+                        "w": 183,
+                        "h": 310
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 101,
+                        "y": 53,
+                        "w": 183,
+                        "h": 310
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "jab_cross_recover",
+                    "frame": {
+                        "x": 383,
+                        "y": 645,
+                        "w": 186,
+                        "h": 305
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 109,
+                        "y": 48,
+                        "w": 186,
+                        "h": 305
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "guard",
+                    "frame": {
+                        "x": 0,
+                        "y": 972,
+                        "w": 180,
+                        "h": 315
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 98,
+                        "y": 49,
+                        "w": 180,
+                        "h": 315
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "muay_thai_champ_super_stand",
+                    "frame": {
+                        "x": 188,
+                        "y": 972,
+                        "w": 183,
+                        "h": 306
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 100,
+                        "y": 56,
+                        "w": 183,
+                        "h": 306
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "victory_4",
+                    "frame": {
+                        "x": 0,
+                        "y": 1295,
+                        "w": 170,
+                        "h": 328
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 101,
+                        "y": 35,
+                        "w": 170,
+                        "h": 328
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "up_3",
+                    "frame": {
+                        "x": 577,
+                        "y": 645,
+                        "w": 184,
+                        "h": 303
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 59,
+                        "w": 184,
+                        "h": 303
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "fire_kick",
+                    "frame": {
+                        "x": 769,
+                        "y": 645,
+                        "w": 185,
+                        "h": 301
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 104,
+                        "y": 51,
+                        "w": 185,
+                        "h": 301
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "clinch_elbow",
+                    "frame": {
+                        "x": 962,
+                        "y": 645,
+                        "w": 186,
+                        "h": 299
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 67,
+                        "w": 186,
+                        "h": 299
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "iron_body",
+                    "frame": {
+                        "x": 1156,
+                        "y": 645,
+                        "w": 186,
+                        "h": 298
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 68,
+                        "w": 186,
+                        "h": 298
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "garuda_blaze_recover1",
+                    "frame": {
+                        "x": 397,
+                        "y": 331,
+                        "w": 184,
+                        "h": 299
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 103,
+                        "y": 62,
+                        "w": 184,
+                        "h": 299
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "clinch_elbow_windup2",
+                    "frame": {
+                        "x": 1350,
+                        "y": 645,
+                        "w": 185,
+                        "h": 297
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 98,
+                        "y": 65,
+                        "w": 185,
+                        "h": 297
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_2",
+                    "frame": {
+                        "x": 1543,
+                        "y": 645,
+                        "w": 186,
+                        "h": 295
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 67,
+                        "w": 186,
+                        "h": 295
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "clinch_elbow_windup",
+                    "frame": {
+                        "x": 589,
+                        "y": 331,
+                        "w": 184,
+                        "h": 298
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 64,
+                        "w": 184,
+                        "h": 298
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "garuda_blaze",
+                    "frame": {
+                        "x": 379,
+                        "y": 972,
+                        "w": 182,
+                        "h": 301
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 64,
+                        "w": 182,
+                        "h": 301
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_5",
+                    "frame": {
+                        "x": 781,
+                        "y": 331,
+                        "w": 185,
+                        "h": 296
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 66,
+                        "w": 185,
+                        "h": 296
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "victory",
+                    "frame": {
+                        "x": 178,
+                        "y": 1295,
+                        "w": 176,
+                        "h": 311
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 98,
+                        "y": 55,
+                        "w": 176,
+                        "h": 311
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "0_idle",
+                    "frame": {
+                        "x": 619,
+                        "y": 0,
+                        "w": 184,
+                        "h": 297
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 65,
+                        "w": 184,
+                        "h": 297
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "dash_recover",
+                    "frame": {
+                        "x": 811,
+                        "y": 0,
+                        "w": 184,
+                        "h": 297
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 65,
+                        "w": 184,
+                        "h": 297
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "jump_fall_2",
+                    "frame": {
+                        "x": 1003,
+                        "y": 0,
+                        "w": 184,
+                        "h": 297
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 104,
+                        "y": 65,
+                        "w": 184,
+                        "h": 297
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "jump_rise_2",
+                    "frame": {
+                        "x": 1195,
+                        "y": 0,
+                        "w": 184,
+                        "h": 297
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 65,
+                        "w": 184,
+                        "h": 297
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_3",
+                    "frame": {
+                        "x": 1387,
+                        "y": 0,
+                        "w": 184,
+                        "h": 297
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 65,
+                        "w": 184,
+                        "h": 297
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "up_4",
+                    "frame": {
+                        "x": 1579,
+                        "y": 0,
+                        "w": 184,
+                        "h": 297
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 65,
+                        "w": 184,
+                        "h": 297
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "garuda_blaze_windup1",
+                    "frame": {
+                        "x": 1771,
+                        "y": 0,
+                        "w": 184,
+                        "h": 296
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 100,
+                        "y": 67,
+                        "w": 184,
+                        "h": 296
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "intro_6",
+                    "frame": {
+                        "x": 974,
+                        "y": 331,
+                        "w": 184,
+                        "h": 296
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 68,
+                        "w": 184,
+                        "h": 296
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_1",
+                    "frame": {
+                        "x": 1166,
+                        "y": 331,
+                        "w": 184,
+                        "h": 296
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 100,
+                        "y": 66,
+                        "w": 184,
+                        "h": 296
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "idle_4",
+                    "frame": {
+                        "x": 1737,
+                        "y": 645,
+                        "w": 185,
+                        "h": 294
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 98,
+                        "y": 68,
+                        "w": 185,
+                        "h": 294
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "intro_3",
+                    "frame": {
+                        "x": 1358,
+                        "y": 331,
+                        "w": 185,
+                        "h": 294
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 69,
+                        "w": 185,
+                        "h": 294
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "defeat_2",
+                    "frame": {
+                        "x": 569,
+                        "y": 972,
+                        "w": 184,
+                        "h": 295
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 67,
+                        "w": 184,
+                        "h": 295
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "garuda_blaze_hold",
+                    "frame": {
+                        "x": 761,
+                        "y": 972,
+                        "w": 184,
+                        "h": 295
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 68,
+                        "w": 184,
+                        "h": 295
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "idle_2",
+                    "frame": {
+                        "x": 953,
+                        "y": 972,
+                        "w": 184,
+                        "h": 295
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 100,
+                        "y": 67,
+                        "w": 184,
+                        "h": 295
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "victory_2",
+                    "frame": {
+                        "x": 362,
+                        "y": 1295,
+                        "w": 183,
+                        "h": 296
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 100,
+                        "y": 66,
+                        "w": 183,
+                        "h": 296
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "taunt_1",
+                    "frame": {
+                        "x": 1551,
+                        "y": 331,
+                        "w": 184,
+                        "h": 294
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 68,
+                        "w": 184,
+                        "h": 294
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "taunt_3",
+                    "frame": {
+                        "x": 1743,
+                        "y": 331,
+                        "w": 184,
+                        "h": 294
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 100,
+                        "y": 68,
+                        "w": 184,
+                        "h": 294
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "victory_5",
+                    "frame": {
+                        "x": 1145,
+                        "y": 972,
+                        "w": 184,
+                        "h": 294
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 68,
+                        "w": 184,
+                        "h": 294
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "intro_2",
+                    "frame": {
+                        "x": 553,
+                        "y": 1295,
+                        "w": 183,
+                        "h": 295
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 100,
+                        "y": 67,
+                        "w": 183,
+                        "h": 295
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "taunt_2",
+                    "frame": {
+                        "x": 744,
+                        "y": 1295,
+                        "w": 183,
+                        "h": 295
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 100,
+                        "y": 67,
+                        "w": 183,
+                        "h": 295
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "clinch_elbow_recover",
+                    "frame": {
+                        "x": 1337,
+                        "y": 972,
+                        "w": 184,
+                        "h": 293
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 70,
+                        "w": 184,
+                        "h": 293
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "idle_5",
+                    "frame": {
+                        "x": 1529,
+                        "y": 972,
+                        "w": 184,
+                        "h": 293
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 71,
+                        "w": 184,
+                        "h": 293
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "garuda_blaze_windup2",
+                    "frame": {
+                        "x": 935,
+                        "y": 1295,
+                        "w": 183,
+                        "h": 294
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 100,
+                        "y": 68,
+                        "w": 183,
+                        "h": 294
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_4",
+                    "frame": {
+                        "x": 1126,
+                        "y": 1295,
+                        "w": 183,
+                        "h": 294
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 100,
+                        "y": 68,
+                        "w": 183,
+                        "h": 294
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "intro_4",
+                    "frame": {
+                        "x": 1721,
+                        "y": 972,
+                        "w": 183,
+                        "h": 293
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 100,
+                        "y": 69,
+                        "w": 183,
+                        "h": 293
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "air_windup",
+                    "frame": {
+                        "x": 1317,
+                        "y": 1295,
+                        "w": 201,
+                        "h": 263
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 63,
+                        "y": 40,
+                        "w": 201,
+                        "h": 263
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "cast_recover",
+                    "frame": {
+                        "x": 0,
+                        "y": 1631,
+                        "w": 178,
+                        "h": 295
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 102,
+                        "y": 66,
+                        "w": 178,
+                        "h": 295
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "sweep_lunge",
+                    "frame": {
+                        "x": 186,
+                        "y": 1631,
+                        "w": 170,
+                        "h": 292
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 95,
+                        "y": 61,
+                        "w": 170,
+                        "h": 292
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "run_2",
+                    "frame": {
+                        "x": 1526,
+                        "y": 1295,
+                        "w": 195,
+                        "h": 242
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 70,
+                        "y": 65,
+                        "w": 195,
+                        "h": 242
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "down_4",
+                    "frame": {
+                        "x": 1729,
+                        "y": 1295,
+                        "w": 305,
+                        "h": 131
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 34,
+                        "y": 166,
+                        "w": 305,
+                        "h": 131
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "Arena Fighter",
+        "version": "4.0",
+        "frameCount": 52
+    }
+}

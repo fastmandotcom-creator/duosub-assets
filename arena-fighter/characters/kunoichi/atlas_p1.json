@@ -1,0 +1,944 @@
+{
+    "textures": [
+        {
+            "image": "sprite_sheet_p1.webp",
+            "format": "RGBA8888",
+            "size": {
+                "w": 2048,
+                "h": 2048
+            },
+            "scale": "1",
+            "frames": [
+                {
+                    "filename": "rapier_slash_recover",
+                    "frame": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 242,
+                        "h": 313
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 71,
+                        "y": 50,
+                        "w": 242,
+                        "h": 313
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "knee_strike_follow",
+                    "frame": {
+                        "x": 0,
+                        "y": 321,
+                        "w": 236,
+                        "h": 318
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 89,
+                        "y": 52,
+                        "w": 236,
+                        "h": 318
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "knee_strike_recover",
+                    "frame": {
+                        "x": 244,
+                        "y": 321,
+                        "w": 236,
+                        "h": 315
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 76,
+                        "y": 48,
+                        "w": 236,
+                        "h": 315
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_3",
+                    "frame": {
+                        "x": 0,
+                        "y": 647,
+                        "w": 229,
+                        "h": 324
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 76,
+                        "y": 43,
+                        "w": 229,
+                        "h": 324
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "kunoichi_super_vanish",
+                    "frame": {
+                        "x": 0,
+                        "y": 979,
+                        "w": 228,
+                        "h": 325
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 82,
+                        "y": 34,
+                        "w": 228,
+                        "h": 325
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "shuriken_spin_recover1",
+                    "frame": {
+                        "x": 488,
+                        "y": 321,
+                        "w": 235,
+                        "h": 314
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 72,
+                        "y": 52,
+                        "w": 235,
+                        "h": 314
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "hit",
+                    "frame": {
+                        "x": 237,
+                        "y": 647,
+                        "w": 233,
+                        "h": 316
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 74,
+                        "y": 47,
+                        "w": 233,
+                        "h": 316
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "high_kick_recover",
+                    "frame": {
+                        "x": 731,
+                        "y": 321,
+                        "w": 232,
+                        "h": 313
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 82,
+                        "y": 50,
+                        "w": 232,
+                        "h": 313
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "shuriken_spin_recover2",
+                    "frame": {
+                        "x": 971,
+                        "y": 321,
+                        "w": 231,
+                        "h": 312
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 71,
+                        "y": 53,
+                        "w": 231,
+                        "h": 312
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "blood_moon",
+                    "frame": {
+                        "x": 0,
+                        "y": 1312,
+                        "w": 210,
+                        "h": 343
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 81,
+                        "y": 22,
+                        "w": 210,
+                        "h": 343
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "shuriken_spin_hold",
+                    "frame": {
+                        "x": 1210,
+                        "y": 321,
+                        "w": 230,
+                        "h": 312
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 77,
+                        "y": 53,
+                        "w": 230,
+                        "h": 312
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "spinning_kick",
+                    "frame": {
+                        "x": 478,
+                        "y": 647,
+                        "w": 227,
+                        "h": 315
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 76,
+                        "y": 38,
+                        "w": 227,
+                        "h": 315
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "run_2",
+                    "frame": {
+                        "x": 1448,
+                        "y": 321,
+                        "w": 229,
+                        "h": 312
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 82,
+                        "y": 45,
+                        "w": 229,
+                        "h": 312
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "knee_strike_windup",
+                    "frame": {
+                        "x": 713,
+                        "y": 647,
+                        "w": 227,
+                        "h": 314
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 72,
+                        "y": 54,
+                        "w": 227,
+                        "h": 314
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "elbow_strike",
+                    "frame": {
+                        "x": 1685,
+                        "y": 321,
+                        "w": 228,
+                        "h": 312
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 85,
+                        "y": 51,
+                        "w": 228,
+                        "h": 312
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "shuriken_spin_windup1",
+                    "frame": {
+                        "x": 948,
+                        "y": 647,
+                        "w": 228,
+                        "h": 312
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 77,
+                        "y": 53,
+                        "w": 228,
+                        "h": 312
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "intro_6",
+                    "frame": {
+                        "x": 1184,
+                        "y": 647,
+                        "w": 227,
+                        "h": 312
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 77,
+                        "y": 54,
+                        "w": 227,
+                        "h": 312
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "rapier_slash_follow",
+                    "frame": {
+                        "x": 1419,
+                        "y": 647,
+                        "w": 227,
+                        "h": 312
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 72,
+                        "y": 46,
+                        "w": 227,
+                        "h": 312
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "shuriken_spin_windup2",
+                    "frame": {
+                        "x": 250,
+                        "y": 0,
+                        "w": 226,
+                        "h": 313
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 80,
+                        "y": 52,
+                        "w": 226,
+                        "h": 313
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "twin_kick_recover",
+                    "frame": {
+                        "x": 1654,
+                        "y": 647,
+                        "w": 230,
+                        "h": 307
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 75,
+                        "y": 49,
+                        "w": 230,
+                        "h": 307
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "victory",
+                    "frame": {
+                        "x": 484,
+                        "y": 0,
+                        "w": 226,
+                        "h": 312
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 78,
+                        "y": 54,
+                        "w": 226,
+                        "h": 312
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "kunoichi_super_blur1",
+                    "frame": {
+                        "x": 718,
+                        "y": 0,
+                        "w": 226,
+                        "h": 312
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 77,
+                        "y": 54,
+                        "w": 226,
+                        "h": 312
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "cast_recover",
+                    "frame": {
+                        "x": 236,
+                        "y": 979,
+                        "w": 225,
+                        "h": 313
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 80,
+                        "y": 54,
+                        "w": 225,
+                        "h": 313
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "0_idle",
+                    "frame": {
+                        "x": 952,
+                        "y": 0,
+                        "w": 225,
+                        "h": 312
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 78,
+                        "y": 53,
+                        "w": 225,
+                        "h": 312
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_1",
+                    "frame": {
+                        "x": 1185,
+                        "y": 0,
+                        "w": 225,
+                        "h": 312
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 78,
+                        "y": 53,
+                        "w": 225,
+                        "h": 312
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "spinning_kick_recover",
+                    "frame": {
+                        "x": 1418,
+                        "y": 0,
+                        "w": 228,
+                        "h": 307
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 70,
+                        "y": 50,
+                        "w": 228,
+                        "h": 307
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "dash_recover",
+                    "frame": {
+                        "x": 469,
+                        "y": 979,
+                        "w": 225,
+                        "h": 311
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 81,
+                        "y": 55,
+                        "w": 225,
+                        "h": 311
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "knee_strike_windup2",
+                    "frame": {
+                        "x": 218,
+                        "y": 1312,
+                        "w": 219,
+                        "h": 319
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 93,
+                        "y": 53,
+                        "w": 219,
+                        "h": 319
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "kunoichi_super_blur2",
+                    "frame": {
+                        "x": 702,
+                        "y": 979,
+                        "w": 226,
+                        "h": 309
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 80,
+                        "y": 56,
+                        "w": 226,
+                        "h": 309
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "kunoichi_super_moon_drive",
+                    "frame": {
+                        "x": 445,
+                        "y": 1312,
+                        "w": 223,
+                        "h": 311
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 83,
+                        "y": 54,
+                        "w": 223,
+                        "h": 311
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "twin_kick_windup",
+                    "frame": {
+                        "x": 0,
+                        "y": 1663,
+                        "w": 222,
+                        "h": 312
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 84,
+                        "y": 42,
+                        "w": 222,
+                        "h": 312
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "high_kick",
+                    "frame": {
+                        "x": 1654,
+                        "y": 0,
+                        "w": 223,
+                        "h": 306
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 54,
+                        "w": 223,
+                        "h": 306
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "idle_2",
+                    "frame": {
+                        "x": 936,
+                        "y": 979,
+                        "w": 227,
+                        "h": 300
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 81,
+                        "y": 50,
+                        "w": 227,
+                        "h": 300
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "up_4",
+                    "frame": {
+                        "x": 676,
+                        "y": 1312,
+                        "w": 226,
+                        "h": 301
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 83,
+                        "y": 48,
+                        "w": 226,
+                        "h": 301
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "kunoichi_super_land",
+                    "frame": {
+                        "x": 1171,
+                        "y": 979,
+                        "w": 240,
+                        "h": 277
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 74,
+                        "y": 61,
+                        "w": 240,
+                        "h": 277
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "run_4",
+                    "frame": {
+                        "x": 910,
+                        "y": 1312,
+                        "w": 226,
+                        "h": 294
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 79,
+                        "y": 53,
+                        "w": 226,
+                        "h": 294
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_5",
+                    "frame": {
+                        "x": 1144,
+                        "y": 1312,
+                        "w": 225,
+                        "h": 288
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 79,
+                        "y": 56,
+                        "w": 225,
+                        "h": 288
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "run_1",
+                    "frame": {
+                        "x": 230,
+                        "y": 1663,
+                        "w": 216,
+                        "h": 299
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 87,
+                        "y": 55,
+                        "w": 216,
+                        "h": 299
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "defeat_1",
+                    "frame": {
+                        "x": 454,
+                        "y": 1663,
+                        "w": 220,
+                        "h": 290
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 72,
+                        "y": 60,
+                        "w": 220,
+                        "h": 290
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "down_2",
+                    "frame": {
+                        "x": 1419,
+                        "y": 979,
+                        "w": 225,
+                        "h": 272
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 79,
+                        "y": 52,
+                        "w": 225,
+                        "h": 272
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "up_2",
+                    "frame": {
+                        "x": 1377,
+                        "y": 1312,
+                        "w": 214,
+                        "h": 284
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 70,
+                        "y": 56,
+                        "w": 214,
+                        "h": 284
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "air_recover",
+                    "frame": {
+                        "x": 1652,
+                        "y": 979,
+                        "w": 238,
+                        "h": 253
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 70,
+                        "y": 52,
+                        "w": 238,
+                        "h": 253
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "jump_fall_2",
+                    "frame": {
+                        "x": 1599,
+                        "y": 1312,
+                        "w": 214,
+                        "h": 280
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 93,
+                        "y": 48,
+                        "w": 214,
+                        "h": 280
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_6",
+                    "frame": {
+                        "x": 1821,
+                        "y": 1312,
+                        "w": 210,
+                        "h": 280
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 63,
+                        "y": 59,
+                        "w": 210,
+                        "h": 280
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "Arena Fighter",
+        "version": "4.0",
+        "frameCount": 44
+    }
+}

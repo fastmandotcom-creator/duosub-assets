@@ -1,0 +1,1 @@
+Game item pickup: a red health pickup, cross shape or heart, game item icon. 48x48 pixels. Transparent background. Game UI sprite.

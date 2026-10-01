@@ -1,0 +1,944 @@
+{
+    "textures": [
+        {
+            "image": "sprite_sheet_p1.webp",
+            "format": "RGBA8888",
+            "size": {
+                "w": 2048,
+                "h": 2048
+            },
+            "scale": "1",
+            "frames": [
+                {
+                    "filename": "shaolin_monk_super_dragon1",
+                    "frame": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 206,
+                        "h": 339
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 86,
+                        "y": 24,
+                        "w": 206,
+                        "h": 339
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "cast_start",
+                    "frame": {
+                        "x": 214,
+                        "y": 0,
+                        "w": 217,
+                        "h": 319
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 88,
+                        "y": 44,
+                        "w": 217,
+                        "h": 319
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "golden_mandala",
+                    "frame": {
+                        "x": 0,
+                        "y": 347,
+                        "w": 202,
+                        "h": 342
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 91,
+                        "y": 22,
+                        "w": 202,
+                        "h": 342
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "golden_mandala_recover1",
+                    "frame": {
+                        "x": 439,
+                        "y": 0,
+                        "w": 215,
+                        "h": 307
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 81,
+                        "y": 53,
+                        "w": 215,
+                        "h": 307
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "knee_strike_windup2",
+                    "frame": {
+                        "x": 662,
+                        "y": 0,
+                        "w": 209,
+                        "h": 307
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 109,
+                        "y": 51,
+                        "w": 209,
+                        "h": 307
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "victory",
+                    "frame": {
+                        "x": 210,
+                        "y": 347,
+                        "w": 195,
+                        "h": 329
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 92,
+                        "y": 37,
+                        "w": 195,
+                        "h": 329
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "knee_strike",
+                    "frame": {
+                        "x": 879,
+                        "y": 0,
+                        "w": 209,
+                        "h": 302
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 75,
+                        "y": 57,
+                        "w": 209,
+                        "h": 302
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "victory_2",
+                    "frame": {
+                        "x": 0,
+                        "y": 697,
+                        "w": 187,
+                        "h": 337
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 98,
+                        "y": 28,
+                        "w": 187,
+                        "h": 337
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "golden_mandala_recover2",
+                    "frame": {
+                        "x": 1096,
+                        "y": 0,
+                        "w": 208,
+                        "h": 301
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 97,
+                        "y": 57,
+                        "w": 208,
+                        "h": 301
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "cast_peak",
+                    "frame": {
+                        "x": 413,
+                        "y": 347,
+                        "w": 195,
+                        "h": 321
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 95,
+                        "y": 44,
+                        "w": 195,
+                        "h": 321
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "knee_strike_recover",
+                    "frame": {
+                        "x": 616,
+                        "y": 347,
+                        "w": 204,
+                        "h": 305
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 85,
+                        "y": 54,
+                        "w": 204,
+                        "h": 305
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "shaolin_monk_super_mandala",
+                    "frame": {
+                        "x": 1312,
+                        "y": 0,
+                        "w": 208,
+                        "h": 298
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 91,
+                        "y": 58,
+                        "w": 208,
+                        "h": 298
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "palm_slap",
+                    "frame": {
+                        "x": 195,
+                        "y": 697,
+                        "w": 196,
+                        "h": 315
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 98,
+                        "y": 51,
+                        "w": 196,
+                        "h": 315
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "hit",
+                    "frame": {
+                        "x": 399,
+                        "y": 697,
+                        "w": 199,
+                        "h": 310
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 98,
+                        "y": 50,
+                        "w": 199,
+                        "h": 310
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "golden_mandala_windup1",
+                    "frame": {
+                        "x": 828,
+                        "y": 347,
+                        "w": 206,
+                        "h": 299
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 90,
+                        "y": 60,
+                        "w": 206,
+                        "h": 299
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "palm_slap_follow",
+                    "frame": {
+                        "x": 606,
+                        "y": 697,
+                        "w": 199,
+                        "h": 309
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 92,
+                        "y": 51,
+                        "w": 199,
+                        "h": 309
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "golden_mandala_windup2",
+                    "frame": {
+                        "x": 1528,
+                        "y": 0,
+                        "w": 207,
+                        "h": 297
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 88,
+                        "y": 60,
+                        "w": 207,
+                        "h": 297
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "flying_kick_follow",
+                    "frame": {
+                        "x": 1743,
+                        "y": 0,
+                        "w": 223,
+                        "h": 275
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 75,
+                        "y": 41,
+                        "w": 223,
+                        "h": 275
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "cast_recover",
+                    "frame": {
+                        "x": 0,
+                        "y": 1042,
+                        "w": 188,
+                        "h": 325
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 97,
+                        "y": 42,
+                        "w": 188,
+                        "h": 325
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "dash_recover",
+                    "frame": {
+                        "x": 1042,
+                        "y": 347,
+                        "w": 204,
+                        "h": 299
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 91,
+                        "y": 58,
+                        "w": 204,
+                        "h": 299
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "jump_fall_1",
+                    "frame": {
+                        "x": 196,
+                        "y": 1042,
+                        "w": 194,
+                        "h": 314
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 81,
+                        "y": 44,
+                        "w": 194,
+                        "h": 314
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "shaolin_monk_super_spin",
+                    "frame": {
+                        "x": 813,
+                        "y": 697,
+                        "w": 199,
+                        "h": 306
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 94,
+                        "y": 51,
+                        "w": 199,
+                        "h": 306
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_4",
+                    "frame": {
+                        "x": 1254,
+                        "y": 347,
+                        "w": 205,
+                        "h": 297
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 90,
+                        "y": 64,
+                        "w": 205,
+                        "h": 297
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "jump_land",
+                    "frame": {
+                        "x": 1467,
+                        "y": 347,
+                        "w": 226,
+                        "h": 269
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 83,
+                        "y": 68,
+                        "w": 226,
+                        "h": 269
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "0_idle",
+                    "frame": {
+                        "x": 1020,
+                        "y": 697,
+                        "w": 204,
+                        "h": 298
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 91,
+                        "y": 58,
+                        "w": 204,
+                        "h": 298
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "intro_2",
+                    "frame": {
+                        "x": 1232,
+                        "y": 697,
+                        "w": 204,
+                        "h": 298
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 91,
+                        "y": 60,
+                        "w": 204,
+                        "h": 298
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "shaolin_monk_super_dragon2",
+                    "frame": {
+                        "x": 1444,
+                        "y": 697,
+                        "w": 204,
+                        "h": 298
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 91,
+                        "y": 60,
+                        "w": 204,
+                        "h": 298
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "spinning_kick",
+                    "frame": {
+                        "x": 1656,
+                        "y": 697,
+                        "w": 220,
+                        "h": 276
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 78,
+                        "y": 80,
+                        "w": 220,
+                        "h": 276
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "intro_6",
+                    "frame": {
+                        "x": 398,
+                        "y": 1042,
+                        "w": 203,
+                        "h": 298
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 92,
+                        "y": 58,
+                        "w": 203,
+                        "h": 298
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "intro_4",
+                    "frame": {
+                        "x": 609,
+                        "y": 1042,
+                        "w": 203,
+                        "h": 297
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 92,
+                        "y": 59,
+                        "w": 203,
+                        "h": 297
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "taunt_2",
+                    "frame": {
+                        "x": 820,
+                        "y": 1042,
+                        "w": 203,
+                        "h": 297
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 92,
+                        "y": 59,
+                        "w": 203,
+                        "h": 297
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "flying_kick",
+                    "frame": {
+                        "x": 1701,
+                        "y": 347,
+                        "w": 230,
+                        "h": 262
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 76,
+                        "y": 51,
+                        "w": 230,
+                        "h": 262
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_1",
+                    "frame": {
+                        "x": 1031,
+                        "y": 1042,
+                        "w": 203,
+                        "h": 296
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 92,
+                        "y": 61,
+                        "w": 203,
+                        "h": 296
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_5",
+                    "frame": {
+                        "x": 1242,
+                        "y": 1042,
+                        "w": 203,
+                        "h": 296
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 93,
+                        "y": 60,
+                        "w": 203,
+                        "h": 296
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "intro_5",
+                    "frame": {
+                        "x": 1453,
+                        "y": 1042,
+                        "w": 204,
+                        "h": 294
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 94,
+                        "y": 61,
+                        "w": 204,
+                        "h": 294
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "up_4",
+                    "frame": {
+                        "x": 0,
+                        "y": 1375,
+                        "w": 200,
+                        "h": 297
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 95,
+                        "y": 61,
+                        "w": 200,
+                        "h": 297
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "shaolin_monk_super_rise",
+                    "frame": {
+                        "x": 1665,
+                        "y": 1042,
+                        "w": 228,
+                        "h": 260
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 90,
+                        "y": 61,
+                        "w": 228,
+                        "h": 260
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "taunt_1",
+                    "frame": {
+                        "x": 208,
+                        "y": 1375,
+                        "w": 198,
+                        "h": 296
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 97,
+                        "y": 61,
+                        "w": 198,
+                        "h": 296
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "guard",
+                    "frame": {
+                        "x": 0,
+                        "y": 1680,
+                        "w": 188,
+                        "h": 311
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 103,
+                        "y": 49,
+                        "w": 188,
+                        "h": 311
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "jump_fall_2",
+                    "frame": {
+                        "x": 196,
+                        "y": 1680,
+                        "w": 191,
+                        "h": 306
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 95,
+                        "y": 54,
+                        "w": 191,
+                        "h": 306
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "knee_strike_windup",
+                    "frame": {
+                        "x": 395,
+                        "y": 1680,
+                        "w": 193,
+                        "h": 300
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 82,
+                        "y": 55,
+                        "w": 193,
+                        "h": 300
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_2",
+                    "frame": {
+                        "x": 596,
+                        "y": 1680,
+                        "w": 196,
+                        "h": 293
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 95,
+                        "y": 63,
+                        "w": 196,
+                        "h": 293
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "flying_kick_windup2",
+                    "frame": {
+                        "x": 800,
+                        "y": 1680,
+                        "w": 205,
+                        "h": 273
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 82,
+                        "y": 37,
+                        "w": 205,
+                        "h": 273
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "down_1",
+                    "frame": {
+                        "x": 1013,
+                        "y": 1680,
+                        "w": 179,
+                        "h": 254
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 100,
+                        "y": 62,
+                        "w": 179,
+                        "h": 254
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "Arena Fighter",
+        "version": "4.0",
+        "frameCount": 44
+    }
+}

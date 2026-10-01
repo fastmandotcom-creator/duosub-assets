@@ -1,0 +1,1 @@
+Skill icon: a circular blue shield with double ring outline, game defensive skill icon. 48x48 pixels. Transparent background. Game UI sprite.

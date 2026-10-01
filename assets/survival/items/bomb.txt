@@ -1,0 +1,1 @@
+Game item pickup: a dark grey bomb with a fuse on top, game explosive item. 48x48 pixels. Transparent background. Game UI sprite.

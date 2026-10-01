@@ -1,0 +1,1 @@
+Skill icon: three small dots in a row with a trail line, representing projectile pierce/penetration, game skill icon. 48x48 pixels. Transparent background. Game UI sprite.

@@ -1,0 +1,1216 @@
+{
+  "logical": 384,
+  "sheets": 4,
+  "frames": [
+    {
+      "name": "missile_spread_windup2",
+      "sheet": 0,
+      "x": 0,
+      "y": 0,
+      "w": 338,
+      "h": 306,
+      "lx": 21,
+      "ly": 46
+    },
+    {
+      "name": "supreme_leader_super_beam_hit",
+      "sheet": 0,
+      "x": 0,
+      "y": 314,
+      "w": 324,
+      "h": 314,
+      "lx": 60,
+      "ly": 39
+    },
+    {
+      "name": "missile_spread_recover",
+      "sheet": 0,
+      "x": 332,
+      "y": 314,
+      "w": 327,
+      "h": 308,
+      "lx": 23,
+      "ly": 47
+    },
+    {
+      "name": "flag_slap_windup2",
+      "sheet": 0,
+      "x": 0,
+      "y": 636,
+      "w": 317,
+      "h": 313,
+      "lx": 27,
+      "ly": 44
+    },
+    {
+      "name": "saturation_barrage_hold",
+      "sheet": 0,
+      "x": 0,
+      "y": 957,
+      "w": 311,
+      "h": 316,
+      "lx": 62,
+      "ly": 40
+    },
+    {
+      "name": "victory_3",
+      "sheet": 0,
+      "x": 0,
+      "y": 1281,
+      "w": 303,
+      "h": 323,
+      "lx": 39,
+      "ly": 37
+    },
+    {
+      "name": "red_star_windup2",
+      "sheet": 0,
+      "x": 311,
+      "y": 1281,
+      "w": 303,
+      "h": 318,
+      "lx": 53,
+      "ly": 37
+    },
+    {
+      "name": "double_missile",
+      "sheet": 0,
+      "x": 622,
+      "y": 1281,
+      "w": 307,
+      "h": 311,
+      "lx": 46,
+      "ly": 40
+    },
+    {
+      "name": "missile_spread",
+      "sheet": 0,
+      "x": 937,
+      "y": 1281,
+      "w": 349,
+      "h": 273,
+      "lx": 20,
+      "ly": 71
+    },
+    {
+      "name": "red_star",
+      "sheet": 0,
+      "x": 667,
+      "y": 314,
+      "w": 311,
+      "h": 306,
+      "lx": 38,
+      "ly": 48
+    },
+    {
+      "name": "red_star_windup1",
+      "sheet": 0,
+      "x": 0,
+      "y": 1612,
+      "w": 292,
+      "h": 323,
+      "lx": 31,
+      "ly": 35
+    },
+    {
+      "name": "rocket_launch_follow",
+      "sheet": 0,
+      "x": 325,
+      "y": 636,
+      "w": 302,
+      "h": 312,
+      "lx": 63,
+      "ly": 44
+    },
+    {
+      "name": "flag_slap_recover",
+      "sheet": 0,
+      "x": 319,
+      "y": 957,
+      "w": 299,
+      "h": 314,
+      "lx": 41,
+      "ly": 42
+    },
+    {
+      "name": "flag_slap_windup",
+      "sheet": 0,
+      "x": 300,
+      "y": 1612,
+      "w": 292,
+      "h": 320,
+      "lx": 53,
+      "ly": 34
+    },
+    {
+      "name": "missile_spread_follow",
+      "sheet": 0,
+      "x": 986,
+      "y": 314,
+      "w": 330,
+      "h": 283,
+      "lx": 23,
+      "ly": 57
+    },
+    {
+      "name": "air_strike",
+      "sheet": 0,
+      "x": 635,
+      "y": 636,
+      "w": 310,
+      "h": 299,
+      "lx": 44,
+      "ly": 56
+    },
+    {
+      "name": "button_mash_follow",
+      "sheet": 0,
+      "x": 600,
+      "y": 1612,
+      "w": 287,
+      "h": 318,
+      "lx": 59,
+      "ly": 36
+    },
+    {
+      "name": "double_missile_follow",
+      "sheet": 0,
+      "x": 895,
+      "y": 1612,
+      "w": 298,
+      "h": 304,
+      "lx": 30,
+      "ly": 48
+    },
+    {
+      "name": "flag_slap",
+      "sheet": 0,
+      "x": 626,
+      "y": 957,
+      "w": 290,
+      "h": 312,
+      "lx": 59,
+      "ly": 41
+    },
+    {
+      "name": "flag_slap_follow",
+      "sheet": 0,
+      "x": 1201,
+      "y": 1612,
+      "w": 301,
+      "h": 299,
+      "lx": 57,
+      "ly": 51
+    },
+    {
+      "name": "double_missile_recover",
+      "sheet": 0,
+      "x": 924,
+      "y": 957,
+      "w": 292,
+      "h": 306,
+      "lx": 50,
+      "ly": 44
+    },
+    {
+      "name": "dashback_1",
+      "sheet": 0,
+      "x": 1510,
+      "y": 1612,
+      "w": 243,
+      "h": 281,
+      "lx": 72,
+      "ly": 40
+    },
+    {
+      "name": "defeat_1",
+      "sheet": 0,
+      "x": 1761,
+      "y": 1612,
+      "w": 253,
+      "h": 217,
+      "lx": 58,
+      "ly": 124
+    },
+    {
+      "name": "medal_flash_follow",
+      "sheet": 1,
+      "x": 0,
+      "y": 0,
+      "w": 286,
+      "h": 315,
+      "lx": 56,
+      "ly": 38
+    },
+    {
+      "name": "cast_release",
+      "sheet": 1,
+      "x": 0,
+      "y": 323,
+      "w": 283,
+      "h": 317,
+      "lx": 57,
+      "ly": 37
+    },
+    {
+      "name": "command_stance",
+      "sheet": 1,
+      "x": 294,
+      "y": 0,
+      "w": 289,
+      "h": 309,
+      "lx": 26,
+      "ly": 54
+    },
+    {
+      "name": "saturation_barrage_windup1",
+      "sheet": 1,
+      "x": 0,
+      "y": 648,
+      "w": 277,
+      "h": 320,
+      "lx": 80,
+      "ly": 37
+    },
+    {
+      "name": "red_star_recover2",
+      "sheet": 1,
+      "x": 591,
+      "y": 0,
+      "w": 285,
+      "h": 309,
+      "lx": 61,
+      "ly": 42
+    },
+    {
+      "name": "cast_start",
+      "sheet": 1,
+      "x": 0,
+      "y": 976,
+      "w": 273,
+      "h": 322,
+      "lx": 59,
+      "ly": 37
+    },
+    {
+      "name": "supreme_leader_super_shock2",
+      "sheet": 1,
+      "x": 0,
+      "y": 1306,
+      "w": 271,
+      "h": 323,
+      "lx": 72,
+      "ly": 35
+    },
+    {
+      "name": "supreme_leader_super_land",
+      "sheet": 1,
+      "x": 291,
+      "y": 323,
+      "w": 276,
+      "h": 316,
+      "lx": 75,
+      "ly": 38
+    },
+    {
+      "name": "jump_rise_3",
+      "sheet": 1,
+      "x": 0,
+      "y": 1637,
+      "w": 269,
+      "h": 324,
+      "lx": 54,
+      "ly": 32
+    },
+    {
+      "name": "double_missile_windup2",
+      "sheet": 1,
+      "x": 884,
+      "y": 0,
+      "w": 282,
+      "h": 309,
+      "lx": 70,
+      "ly": 41
+    },
+    {
+      "name": "saturation_barrage_windup2",
+      "sheet": 1,
+      "x": 575,
+      "y": 323,
+      "w": 275,
+      "h": 315,
+      "lx": 68,
+      "ly": 40
+    },
+    {
+      "name": "jump_fall_2",
+      "sheet": 1,
+      "x": 285,
+      "y": 648,
+      "w": 269,
+      "h": 317,
+      "lx": 51,
+      "ly": 39
+    },
+    {
+      "name": "supreme_leader_super_wall_up",
+      "sheet": 1,
+      "x": 281,
+      "y": 976,
+      "w": 268,
+      "h": 318,
+      "lx": 65,
+      "ly": 38
+    },
+    {
+      "name": "air_recover",
+      "sheet": 1,
+      "x": 562,
+      "y": 648,
+      "w": 268,
+      "h": 317,
+      "lx": 59,
+      "ly": 39
+    },
+    {
+      "name": "red_star_hold",
+      "sheet": 1,
+      "x": 838,
+      "y": 648,
+      "w": 268,
+      "h": 317,
+      "lx": 77,
+      "ly": 40
+    },
+    {
+      "name": "jump_land",
+      "sheet": 1,
+      "x": 1174,
+      "y": 0,
+      "w": 271,
+      "h": 307,
+      "lx": 61,
+      "ly": 42
+    },
+    {
+      "name": "missile_spread_windup",
+      "sheet": 1,
+      "x": 1114,
+      "y": 648,
+      "w": 263,
+      "h": 315,
+      "lx": 61,
+      "ly": 39
+    },
+    {
+      "name": "double_missile_windup",
+      "sheet": 1,
+      "x": 1385,
+      "y": 648,
+      "w": 266,
+      "h": 309,
+      "lx": 64,
+      "ly": 45
+    },
+    {
+      "name": "rocket_launch",
+      "sheet": 1,
+      "x": 557,
+      "y": 976,
+      "w": 253,
+      "h": 316,
+      "lx": 72,
+      "ly": 40
+    },
+    {
+      "name": "nuke_drop_follow",
+      "sheet": 1,
+      "x": 1659,
+      "y": 648,
+      "w": 260,
+      "h": 299,
+      "lx": 73,
+      "ly": 52
+    },
+    {
+      "name": "dash_windup",
+      "sheet": 1,
+      "x": 277,
+      "y": 1637,
+      "w": 231,
+      "h": 324,
+      "lx": 72,
+      "ly": 33
+    },
+    {
+      "name": "cast_recover",
+      "sheet": 1,
+      "x": 516,
+      "y": 1637,
+      "w": 222,
+      "h": 323,
+      "lx": 81,
+      "ly": 35
+    },
+    {
+      "name": "roll_4",
+      "sheet": 1,
+      "x": 818,
+      "y": 976,
+      "w": 225,
+      "h": 316,
+      "lx": 79,
+      "ly": 37
+    },
+    {
+      "name": "dashback_2",
+      "sheet": 1,
+      "x": 746,
+      "y": 1637,
+      "w": 223,
+      "h": 318,
+      "lx": 74,
+      "ly": 36
+    },
+    {
+      "name": "intro_6",
+      "sheet": 1,
+      "x": 977,
+      "y": 1637,
+      "w": 222,
+      "h": 317,
+      "lx": 76,
+      "ly": 38
+    },
+    {
+      "name": "down_3",
+      "sheet": 1,
+      "x": 1207,
+      "y": 1637,
+      "w": 222,
+      "h": 316,
+      "lx": 86,
+      "ly": 37
+    },
+    {
+      "name": "run_1",
+      "sheet": 1,
+      "x": 1437,
+      "y": 1637,
+      "w": 222,
+      "h": 312,
+      "lx": 83,
+      "ly": 36
+    },
+    {
+      "name": "run_4",
+      "sheet": 1,
+      "x": 1667,
+      "y": 1637,
+      "w": 227,
+      "h": 305,
+      "lx": 73,
+      "ly": 42
+    },
+    {
+      "name": "intro_4",
+      "sheet": 1,
+      "x": 279,
+      "y": 1306,
+      "w": 215,
+      "h": 321,
+      "lx": 84,
+      "ly": 37
+    },
+    {
+      "name": "jump_rise_1",
+      "sheet": 1,
+      "x": 1453,
+      "y": 0,
+      "w": 228,
+      "h": 285,
+      "lx": 65,
+      "ly": 39
+    },
+    {
+      "name": "run_2",
+      "sheet": 1,
+      "x": 1689,
+      "y": 0,
+      "w": 225,
+      "h": 282,
+      "lx": 72,
+      "ly": 43
+    },
+    {
+      "name": "supreme_leader_super_designate",
+      "sheet": 2,
+      "x": 0,
+      "y": 0,
+      "w": 252,
+      "h": 344,
+      "lx": 49,
+      "ly": 18
+    },
+    {
+      "name": "roll_5",
+      "sheet": 2,
+      "x": 260,
+      "y": 0,
+      "w": 258,
+      "h": 326,
+      "lx": 71,
+      "ly": 33
+    },
+    {
+      "name": "nuke_drop_windup2",
+      "sheet": 2,
+      "x": 0,
+      "y": 352,
+      "w": 253,
+      "h": 330,
+      "lx": 73,
+      "ly": 29
+    },
+    {
+      "name": "hit_2",
+      "sheet": 2,
+      "x": 526,
+      "y": 0,
+      "w": 257,
+      "h": 323,
+      "lx": 66,
+      "ly": 34
+    },
+    {
+      "name": "victory",
+      "sheet": 2,
+      "x": 0,
+      "y": 690,
+      "w": 244,
+      "h": 335,
+      "lx": 93,
+      "ly": 25
+    },
+    {
+      "name": "iron_wall",
+      "sheet": 2,
+      "x": 791,
+      "y": 0,
+      "w": 256,
+      "h": 318,
+      "lx": 65,
+      "ly": 36
+    },
+    {
+      "name": "nuke_drop_windup",
+      "sheet": 2,
+      "x": 261,
+      "y": 352,
+      "w": 248,
+      "h": 328,
+      "lx": 66,
+      "ly": 29
+    },
+    {
+      "name": "rocket_launch_windup2",
+      "sheet": 2,
+      "x": 1055,
+      "y": 0,
+      "w": 257,
+      "h": 313,
+      "lx": 59,
+      "ly": 41
+    },
+    {
+      "name": "button_mash_windup2",
+      "sheet": 2,
+      "x": 517,
+      "y": 352,
+      "w": 248,
+      "h": 321,
+      "lx": 67,
+      "ly": 37
+    },
+    {
+      "name": "orbital_strike",
+      "sheet": 2,
+      "x": 252,
+      "y": 690,
+      "w": 240,
+      "h": 331,
+      "lx": 74,
+      "ly": 31
+    },
+    {
+      "name": "roll_2",
+      "sheet": 2,
+      "x": 1320,
+      "y": 0,
+      "w": 256,
+      "h": 310,
+      "lx": 63,
+      "ly": 41
+    },
+    {
+      "name": "nuke_drop_recover",
+      "sheet": 2,
+      "x": 500,
+      "y": 690,
+      "w": 244,
+      "h": 325,
+      "lx": 78,
+      "ly": 31
+    },
+    {
+      "name": "up_2",
+      "sheet": 2,
+      "x": 0,
+      "y": 1033,
+      "w": 241,
+      "h": 326,
+      "lx": 70,
+      "ly": 32
+    },
+    {
+      "name": "button_mash_windup",
+      "sheet": 2,
+      "x": 752,
+      "y": 690,
+      "w": 243,
+      "h": 322,
+      "lx": 72,
+      "ly": 35
+    },
+    {
+      "name": "red_star_recover1",
+      "sheet": 2,
+      "x": 1003,
+      "y": 690,
+      "w": 243,
+      "h": 320,
+      "lx": 89,
+      "ly": 36
+    },
+    {
+      "name": "nuke_drop",
+      "sheet": 2,
+      "x": 1584,
+      "y": 0,
+      "w": 251,
+      "h": 307,
+      "lx": 76,
+      "ly": 49
+    },
+    {
+      "name": "taunt_1",
+      "sheet": 2,
+      "x": 1254,
+      "y": 690,
+      "w": 242,
+      "h": 318,
+      "lx": 75,
+      "ly": 37
+    },
+    {
+      "name": "air_windup",
+      "sheet": 2,
+      "x": 773,
+      "y": 352,
+      "w": 241,
+      "h": 319,
+      "lx": 68,
+      "ly": 37
+    },
+    {
+      "name": "jump_fall_1",
+      "sheet": 2,
+      "x": 0,
+      "y": 1367,
+      "w": 222,
+      "h": 346,
+      "lx": 70,
+      "ly": 22
+    },
+    {
+      "name": "supreme_leader_super_command",
+      "sheet": 2,
+      "x": 230,
+      "y": 1367,
+      "w": 234,
+      "h": 328,
+      "lx": 80,
+      "ly": 32
+    },
+    {
+      "name": "rocket_launch_windup",
+      "sheet": 2,
+      "x": 1504,
+      "y": 690,
+      "w": 239,
+      "h": 318,
+      "lx": 72,
+      "ly": 39
+    },
+    {
+      "name": "dash_recover",
+      "sheet": 2,
+      "x": 1022,
+      "y": 352,
+      "w": 238,
+      "h": 319,
+      "lx": 75,
+      "ly": 38
+    },
+    {
+      "name": "up_4",
+      "sheet": 2,
+      "x": 1268,
+      "y": 352,
+      "w": 237,
+      "h": 319,
+      "lx": 71,
+      "ly": 37
+    },
+    {
+      "name": "supreme_leader_super_shock1",
+      "sheet": 2,
+      "x": 472,
+      "y": 1367,
+      "w": 232,
+      "h": 323,
+      "lx": 61,
+      "ly": 36
+    },
+    {
+      "name": "down_2",
+      "sheet": 2,
+      "x": 1751,
+      "y": 690,
+      "w": 264,
+      "h": 282,
+      "lx": 64,
+      "ly": 56
+    },
+    {
+      "name": "rocket_launch_recover",
+      "sheet": 2,
+      "x": 1513,
+      "y": 352,
+      "w": 236,
+      "h": 312,
+      "lx": 86,
+      "ly": 43
+    },
+    {
+      "name": "medal_flash_windup",
+      "sheet": 2,
+      "x": 712,
+      "y": 1367,
+      "w": 226,
+      "h": 321,
+      "lx": 79,
+      "ly": 37
+    },
+    {
+      "name": "run_3",
+      "sheet": 2,
+      "x": 1757,
+      "y": 352,
+      "w": 235,
+      "h": 308,
+      "lx": 73,
+      "ly": 39
+    },
+    {
+      "name": "up_1",
+      "sheet": 2,
+      "x": 946,
+      "y": 1367,
+      "w": 230,
+      "h": 314,
+      "lx": 73,
+      "ly": 37
+    },
+    {
+      "name": "victory_2",
+      "sheet": 2,
+      "x": 1184,
+      "y": 1367,
+      "w": 227,
+      "h": 314,
+      "lx": 82,
+      "ly": 38
+    },
+    {
+      "name": "roll_1",
+      "sheet": 2,
+      "x": 1419,
+      "y": 1367,
+      "w": 229,
+      "h": 310,
+      "lx": 65,
+      "ly": 44
+    },
+    {
+      "name": "saturation_barrage",
+      "sheet": 2,
+      "x": 1656,
+      "y": 1367,
+      "w": 227,
+      "h": 310,
+      "lx": 79,
+      "ly": 44
+    },
+    {
+      "name": "idle_4",
+      "sheet": 2,
+      "x": 249,
+      "y": 1033,
+      "w": 212,
+      "h": 325,
+      "lx": 83,
+      "ly": 33
+    },
+    {
+      "name": "medal_flash_recover",
+      "sheet": 2,
+      "x": 469,
+      "y": 1033,
+      "w": 213,
+      "h": 323,
+      "lx": 84,
+      "ly": 36
+    },
+    {
+      "name": "medal_flash_windup2",
+      "sheet": 2,
+      "x": 690,
+      "y": 1033,
+      "w": 214,
+      "h": 321,
+      "lx": 79,
+      "ly": 37
+    },
+    {
+      "name": "supreme_leader_super_volley1",
+      "sheet": 2,
+      "x": 912,
+      "y": 1033,
+      "w": 214,
+      "h": 321,
+      "lx": 88,
+      "ly": 37
+    },
+    {
+      "name": "idle_3",
+      "sheet": 2,
+      "x": 1134,
+      "y": 1033,
+      "w": 213,
+      "h": 321,
+      "lx": 84,
+      "ly": 36
+    },
+    {
+      "name": "supreme_leader_super_salute",
+      "sheet": 2,
+      "x": 1355,
+      "y": 1033,
+      "w": 212,
+      "h": 321,
+      "lx": 78,
+      "ly": 38
+    },
+    {
+      "name": "idle_5",
+      "sheet": 2,
+      "x": 1575,
+      "y": 1033,
+      "w": 210,
+      "h": 319,
+      "lx": 87,
+      "ly": 36
+    },
+    {
+      "name": "roll_6",
+      "sheet": 2,
+      "x": 1793,
+      "y": 1033,
+      "w": 214,
+      "h": 310,
+      "lx": 69,
+      "ly": 42
+    },
+    {
+      "name": "taunt_2",
+      "sheet": 3,
+      "x": 0,
+      "y": 0,
+      "w": 225,
+      "h": 331,
+      "lx": 77,
+      "ly": 32
+    },
+    {
+      "name": "cast_peak",
+      "sheet": 3,
+      "x": 233,
+      "y": 0,
+      "w": 221,
+      "h": 329,
+      "lx": 75,
+      "ly": 35
+    },
+    {
+      "name": "up_3",
+      "sheet": 3,
+      "x": 0,
+      "y": 339,
+      "w": 214,
+      "h": 337,
+      "lx": 91,
+      "ly": 26
+    },
+    {
+      "name": "supreme_leader_super_beam_in",
+      "sheet": 3,
+      "x": 222,
+      "y": 339,
+      "w": 216,
+      "h": 333,
+      "lx": 82,
+      "ly": 29
+    },
+    {
+      "name": "saturation_barrage_recover1",
+      "sheet": 3,
+      "x": 462,
+      "y": 0,
+      "w": 217,
+      "h": 326,
+      "lx": 79,
+      "ly": 32
+    },
+    {
+      "name": "button_mash",
+      "sheet": 3,
+      "x": 446,
+      "y": 339,
+      "w": 213,
+      "h": 331,
+      "lx": 80,
+      "ly": 31
+    },
+    {
+      "name": "medal_flash",
+      "sheet": 3,
+      "x": 667,
+      "y": 339,
+      "w": 214,
+      "h": 329,
+      "lx": 81,
+      "ly": 37
+    },
+    {
+      "name": "roll_3",
+      "sheet": 3,
+      "x": 889,
+      "y": 339,
+      "w": 220,
+      "h": 319,
+      "lx": 72,
+      "ly": 38
+    },
+    {
+      "name": "idle_2",
+      "sheet": 3,
+      "x": 0,
+      "y": 684,
+      "w": 214,
+      "h": 327,
+      "lx": 83,
+      "ly": 31
+    },
+    {
+      "name": "intro_5",
+      "sheet": 3,
+      "x": 0,
+      "y": 1019,
+      "w": 213,
+      "h": 328,
+      "lx": 87,
+      "ly": 32
+    },
+    {
+      "name": "0_idle",
+      "sheet": 3,
+      "x": 687,
+      "y": 0,
+      "w": 214,
+      "h": 323,
+      "lx": 79,
+      "ly": 34
+    },
+    {
+      "name": "intro_3",
+      "sheet": 3,
+      "x": 909,
+      "y": 0,
+      "w": 214,
+      "h": 323,
+      "lx": 80,
+      "ly": 35
+    },
+    {
+      "name": "supreme_leader_super_volley2",
+      "sheet": 3,
+      "x": 1131,
+      "y": 0,
+      "w": 214,
+      "h": 323,
+      "lx": 80,
+      "ly": 34
+    },
+    {
+      "name": "taunt_3",
+      "sheet": 3,
+      "x": 1353,
+      "y": 0,
+      "w": 214,
+      "h": 323,
+      "lx": 91,
+      "ly": 34
+    },
+    {
+      "name": "saturation_barrage_recover2",
+      "sheet": 3,
+      "x": 1575,
+      "y": 0,
+      "w": 216,
+      "h": 320,
+      "lx": 81,
+      "ly": 37
+    },
+    {
+      "name": "button_mash_recover",
+      "sheet": 3,
+      "x": 222,
+      "y": 684,
+      "w": 211,
+      "h": 325,
+      "lx": 85,
+      "ly": 33
+    },
+    {
+      "name": "supreme_leader_super_wall_hold",
+      "sheet": 3,
+      "x": 1799,
+      "y": 0,
+      "w": 219,
+      "h": 313,
+      "lx": 70,
+      "ly": 42
+    },
+    {
+      "name": "intro_2",
+      "sheet": 3,
+      "x": 441,
+      "y": 684,
+      "w": 209,
+      "h": 325,
+      "lx": 88,
+      "ly": 35
+    },
+    {
+      "name": "guard",
+      "sheet": 3,
+      "x": 0,
+      "y": 1355,
+      "w": 198,
+      "h": 343,
+      "lx": 95,
+      "ly": 24
+    },
+    {
+      "name": "hit",
+      "sheet": 3,
+      "x": 658,
+      "y": 684,
+      "w": 210,
+      "h": 323,
+      "lx": 75,
+      "ly": 34
+    },
+    {
+      "name": "defeat_2",
+      "sheet": 3,
+      "x": 1117,
+      "y": 339,
+      "w": 210,
+      "h": 315,
+      "lx": 70,
+      "ly": 42
+    },
+    {
+      "name": "victory_5",
+      "sheet": 3,
+      "x": 206,
+      "y": 1355,
+      "w": 196,
+      "h": 333,
+      "lx": 93,
+      "ly": 29
+    },
+    {
+      "name": "victory_4",
+      "sheet": 3,
+      "x": 410,
+      "y": 1355,
+      "w": 198,
+      "h": 327,
+      "lx": 85,
+      "ly": 34
+    },
+    {
+      "name": "intro_1",
+      "sheet": 3,
+      "x": 0,
+      "y": 1706,
+      "w": 196,
+      "h": 329,
+      "lx": 103,
+      "ly": 31
+    },
+    {
+      "name": "jump_rise_2",
+      "sheet": 3,
+      "x": 876,
+      "y": 684,
+      "w": 197,
+      "h": 323,
+      "lx": 97,
+      "ly": 34
+    },
+    {
+      "name": "down_1",
+      "sheet": 3,
+      "x": 1335,
+      "y": 339,
+      "w": 216,
+      "h": 292,
+      "lx": 74,
+      "ly": 42
+    },
+    {
+      "name": "down_4",
+      "sheet": 3,
+      "x": 1559,
+      "y": 339,
+      "w": 282,
+      "h": 192,
+      "lx": 44,
+      "ly": 117
+    }
+  ]
+}

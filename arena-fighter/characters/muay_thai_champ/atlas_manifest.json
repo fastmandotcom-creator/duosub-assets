@@ -1,0 +1,1216 @@
+{
+  "logical": 384,
+  "sheets": 4,
+  "frames": [
+    {
+      "name": "spinning_heel_follow",
+      "sheet": 0,
+      "x": 0,
+      "y": 0,
+      "w": 257,
+      "h": 326,
+      "lx": 57,
+      "ly": 34
+    },
+    {
+      "name": "victory_3",
+      "sheet": 0,
+      "x": 265,
+      "y": 0,
+      "w": 267,
+      "h": 297,
+      "lx": 53,
+      "ly": 65
+    },
+    {
+      "name": "high_kick_recover",
+      "sheet": 0,
+      "x": 0,
+      "y": 334,
+      "w": 254,
+      "h": 309,
+      "lx": 52,
+      "ly": 51
+    },
+    {
+      "name": "high_kick_follow",
+      "sheet": 0,
+      "x": 262,
+      "y": 334,
+      "w": 246,
+      "h": 306,
+      "lx": 77,
+      "ly": 56
+    },
+    {
+      "name": "teep_push",
+      "sheet": 0,
+      "x": 540,
+      "y": 0,
+      "w": 252,
+      "h": 293,
+      "lx": 59,
+      "ly": 57
+    },
+    {
+      "name": "cast_release",
+      "sheet": 0,
+      "x": 516,
+      "y": 334,
+      "w": 247,
+      "h": 295,
+      "lx": 77,
+      "ly": 59
+    },
+    {
+      "name": "high_kick_windup",
+      "sheet": 0,
+      "x": 0,
+      "y": 651,
+      "w": 235,
+      "h": 309,
+      "lx": 82,
+      "ly": 49
+    },
+    {
+      "name": "muay_thai_champ_super_apex",
+      "sheet": 0,
+      "x": 0,
+      "y": 968,
+      "w": 212,
+      "h": 342,
+      "lx": 72,
+      "ly": 21
+    },
+    {
+      "name": "muay_thai_champ_super_rise",
+      "sheet": 0,
+      "x": 243,
+      "y": 651,
+      "w": 236,
+      "h": 305,
+      "lx": 78,
+      "ly": 53
+    },
+    {
+      "name": "spinning_heel_windup2",
+      "sheet": 0,
+      "x": 220,
+      "y": 968,
+      "w": 233,
+      "h": 307,
+      "lx": 74,
+      "ly": 49
+    },
+    {
+      "name": "high_kick",
+      "sheet": 0,
+      "x": 0,
+      "y": 1318,
+      "w": 228,
+      "h": 311,
+      "lx": 90,
+      "ly": 48
+    },
+    {
+      "name": "teep_push_windup",
+      "sheet": 0,
+      "x": 800,
+      "y": 0,
+      "w": 247,
+      "h": 287,
+      "lx": 58,
+      "ly": 68
+    },
+    {
+      "name": "roundhouse",
+      "sheet": 0,
+      "x": 771,
+      "y": 334,
+      "w": 240,
+      "h": 295,
+      "lx": 76,
+      "ly": 62
+    },
+    {
+      "name": "spinning_heel_windup",
+      "sheet": 0,
+      "x": 487,
+      "y": 651,
+      "w": 235,
+      "h": 298,
+      "lx": 79,
+      "ly": 62
+    },
+    {
+      "name": "roundhouse_windup2",
+      "sheet": 0,
+      "x": 1019,
+      "y": 334,
+      "w": 242,
+      "h": 289,
+      "lx": 71,
+      "ly": 62
+    },
+    {
+      "name": "high_kick_windup2",
+      "sheet": 0,
+      "x": 730,
+      "y": 651,
+      "w": 237,
+      "h": 295,
+      "lx": 80,
+      "ly": 61
+    },
+    {
+      "name": "jab_cross_follow",
+      "sheet": 0,
+      "x": 975,
+      "y": 651,
+      "w": 236,
+      "h": 293,
+      "lx": 75,
+      "ly": 63
+    },
+    {
+      "name": "jump_rise_3",
+      "sheet": 0,
+      "x": 236,
+      "y": 1318,
+      "w": 220,
+      "h": 310,
+      "lx": 74,
+      "ly": 45
+    },
+    {
+      "name": "dragon_thunder_windup2",
+      "sheet": 0,
+      "x": 461,
+      "y": 968,
+      "w": 227,
+      "h": 300,
+      "lx": 82,
+      "ly": 55
+    },
+    {
+      "name": "roundhouse_windup",
+      "sheet": 0,
+      "x": 0,
+      "y": 1637,
+      "w": 216,
+      "h": 314,
+      "lx": 80,
+      "ly": 49
+    },
+    {
+      "name": "spinning_heel_recover",
+      "sheet": 0,
+      "x": 1269,
+      "y": 334,
+      "w": 236,
+      "h": 287,
+      "lx": 78,
+      "ly": 68
+    },
+    {
+      "name": "muay_thai_champ_super_shock1",
+      "sheet": 0,
+      "x": 464,
+      "y": 1318,
+      "w": 219,
+      "h": 308,
+      "lx": 65,
+      "ly": 65
+    },
+    {
+      "name": "teep_push_follow",
+      "sheet": 0,
+      "x": 1219,
+      "y": 651,
+      "w": 230,
+      "h": 293,
+      "lx": 62,
+      "ly": 61
+    },
+    {
+      "name": "jab_cross_windup2",
+      "sheet": 0,
+      "x": 1457,
+      "y": 651,
+      "w": 230,
+      "h": 291,
+      "lx": 69,
+      "ly": 65
+    },
+    {
+      "name": "muay_thai_champ_super_knee_hit",
+      "sheet": 0,
+      "x": 691,
+      "y": 1318,
+      "w": 216,
+      "h": 302,
+      "lx": 104,
+      "ly": 54
+    },
+    {
+      "name": "dragon_thunder_hold",
+      "sheet": 0,
+      "x": 224,
+      "y": 1637,
+      "w": 214,
+      "h": 303,
+      "lx": 82,
+      "ly": 54
+    },
+    {
+      "name": "roundhouse_recover",
+      "sheet": 0,
+      "x": 915,
+      "y": 1318,
+      "w": 214,
+      "h": 302,
+      "lx": 71,
+      "ly": 52
+    },
+    {
+      "name": "roundhouse_follow",
+      "sheet": 0,
+      "x": 1695,
+      "y": 651,
+      "w": 220,
+      "h": 291,
+      "lx": 83,
+      "ly": 62
+    },
+    {
+      "name": "dragon_thunder",
+      "sheet": 0,
+      "x": 1137,
+      "y": 1318,
+      "w": 212,
+      "h": 298,
+      "lx": 83,
+      "ly": 58
+    },
+    {
+      "name": "teep_push_recover",
+      "sheet": 0,
+      "x": 1357,
+      "y": 1318,
+      "w": 214,
+      "h": 295,
+      "lx": 95,
+      "ly": 61
+    },
+    {
+      "name": "muay_thai_champ_super_charge",
+      "sheet": 0,
+      "x": 1579,
+      "y": 1318,
+      "w": 224,
+      "h": 281,
+      "lx": 77,
+      "ly": 61
+    },
+    {
+      "name": "dragon_thunder_windup1",
+      "sheet": 0,
+      "x": 696,
+      "y": 968,
+      "w": 210,
+      "h": 299,
+      "lx": 82,
+      "ly": 56
+    },
+    {
+      "name": "jab_cross_windup",
+      "sheet": 0,
+      "x": 914,
+      "y": 968,
+      "w": 209,
+      "h": 296,
+      "lx": 78,
+      "ly": 59
+    },
+    {
+      "name": "jab_cross",
+      "sheet": 0,
+      "x": 1131,
+      "y": 968,
+      "w": 210,
+      "h": 292,
+      "lx": 104,
+      "ly": 65
+    },
+    {
+      "name": "spinning_heel",
+      "sheet": 0,
+      "x": 1811,
+      "y": 1318,
+      "w": 219,
+      "h": 278,
+      "lx": 85,
+      "ly": 73
+    },
+    {
+      "name": "cast_start",
+      "sheet": 0,
+      "x": 446,
+      "y": 1637,
+      "w": 200,
+      "h": 303,
+      "lx": 91,
+      "ly": 59
+    },
+    {
+      "name": "dragon_thunder_recover1",
+      "sheet": 0,
+      "x": 654,
+      "y": 1637,
+      "w": 205,
+      "h": 294,
+      "lx": 86,
+      "ly": 63
+    },
+    {
+      "name": "air_strike",
+      "sheet": 0,
+      "x": 1513,
+      "y": 334,
+      "w": 251,
+      "h": 240,
+      "lx": 62,
+      "ly": 65
+    },
+    {
+      "name": "muay_thai_champ_super_dive",
+      "sheet": 0,
+      "x": 1349,
+      "y": 968,
+      "w": 198,
+      "h": 291,
+      "lx": 94,
+      "ly": 55
+    },
+    {
+      "name": "muay_thai_champ_super_juggle2",
+      "sheet": 0,
+      "x": 1555,
+      "y": 968,
+      "w": 186,
+      "h": 290,
+      "lx": 91,
+      "ly": 68
+    },
+    {
+      "name": "jump_land",
+      "sheet": 0,
+      "x": 1749,
+      "y": 968,
+      "w": 189,
+      "h": 280,
+      "lx": 108,
+      "ly": 64
+    },
+    {
+      "name": "cast_peak",
+      "sheet": 0,
+      "x": 867,
+      "y": 1637,
+      "w": 179,
+      "h": 294,
+      "lx": 98,
+      "ly": 67
+    },
+    {
+      "name": "garuda_blaze_recover2",
+      "sheet": 0,
+      "x": 1054,
+      "y": 1637,
+      "w": 177,
+      "h": 288,
+      "lx": 96,
+      "ly": 68
+    },
+    {
+      "name": "muay_thai_champ_super_land",
+      "sheet": 0,
+      "x": 1239,
+      "y": 1637,
+      "w": 192,
+      "h": 264,
+      "lx": 85,
+      "ly": 70
+    },
+    {
+      "name": "roll_6",
+      "sheet": 0,
+      "x": 1055,
+      "y": 0,
+      "w": 178,
+      "h": 284,
+      "lx": 96,
+      "ly": 64
+    },
+    {
+      "name": "down_2",
+      "sheet": 0,
+      "x": 1241,
+      "y": 0,
+      "w": 182,
+      "h": 266,
+      "lx": 109,
+      "ly": 81
+    },
+    {
+      "name": "defeat_1",
+      "sheet": 0,
+      "x": 1439,
+      "y": 1637,
+      "w": 184,
+      "h": 248,
+      "lx": 92,
+      "ly": 92
+    },
+    {
+      "name": "run_4",
+      "sheet": 0,
+      "x": 1772,
+      "y": 334,
+      "w": 180,
+      "h": 236,
+      "lx": 92,
+      "ly": 67
+    },
+    {
+      "name": "up_2",
+      "sheet": 0,
+      "x": 1631,
+      "y": 1637,
+      "w": 171,
+      "h": 247,
+      "lx": 106,
+      "ly": 75
+    },
+    {
+      "name": "air_recover",
+      "sheet": 0,
+      "x": 1810,
+      "y": 1637,
+      "w": 167,
+      "h": 236,
+      "lx": 111,
+      "ly": 66
+    },
+    {
+      "name": "jump_rise_1",
+      "sheet": 0,
+      "x": 1431,
+      "y": 0,
+      "w": 148,
+      "h": 261,
+      "lx": 121,
+      "ly": 57
+    },
+    {
+      "name": "run_1",
+      "sheet": 0,
+      "x": 1587,
+      "y": 0,
+      "w": 148,
+      "h": 257,
+      "lx": 115,
+      "ly": 61
+    },
+    {
+      "name": "teep_push_windup2",
+      "sheet": 1,
+      "x": 0,
+      "y": 0,
+      "w": 205,
+      "h": 323,
+      "lx": 104,
+      "ly": 61
+    },
+    {
+      "name": "knee_strike_follow",
+      "sheet": 1,
+      "x": 213,
+      "y": 0,
+      "w": 193,
+      "h": 305,
+      "lx": 95,
+      "ly": 51
+    },
+    {
+      "name": "muay_thai_champ_super_shock2",
+      "sheet": 1,
+      "x": 0,
+      "y": 331,
+      "w": 192,
+      "h": 306,
+      "lx": 99,
+      "ly": 56
+    },
+    {
+      "name": "muay_thai_champ_super_juggle1",
+      "sheet": 1,
+      "x": 0,
+      "y": 645,
+      "w": 184,
+      "h": 319,
+      "lx": 97,
+      "ly": 43
+    },
+    {
+      "name": "dragon_thunder_recover2",
+      "sheet": 1,
+      "x": 414,
+      "y": 0,
+      "w": 197,
+      "h": 297,
+      "lx": 101,
+      "ly": 63
+    },
+    {
+      "name": "clinch_elbow_follow",
+      "sheet": 1,
+      "x": 200,
+      "y": 331,
+      "w": 189,
+      "h": 301,
+      "lx": 93,
+      "ly": 59
+    },
+    {
+      "name": "hit",
+      "sheet": 1,
+      "x": 192,
+      "y": 645,
+      "w": 183,
+      "h": 310,
+      "lx": 101,
+      "ly": 53
+    },
+    {
+      "name": "jab_cross_recover",
+      "sheet": 1,
+      "x": 383,
+      "y": 645,
+      "w": 186,
+      "h": 305,
+      "lx": 109,
+      "ly": 48
+    },
+    {
+      "name": "guard",
+      "sheet": 1,
+      "x": 0,
+      "y": 972,
+      "w": 180,
+      "h": 315,
+      "lx": 98,
+      "ly": 49
+    },
+    {
+      "name": "muay_thai_champ_super_stand",
+      "sheet": 1,
+      "x": 188,
+      "y": 972,
+      "w": 183,
+      "h": 306,
+      "lx": 100,
+      "ly": 56
+    },
+    {
+      "name": "victory_4",
+      "sheet": 1,
+      "x": 0,
+      "y": 1295,
+      "w": 170,
+      "h": 328,
+      "lx": 101,
+      "ly": 35
+    },
+    {
+      "name": "up_3",
+      "sheet": 1,
+      "x": 577,
+      "y": 645,
+      "w": 184,
+      "h": 303,
+      "lx": 99,
+      "ly": 59
+    },
+    {
+      "name": "fire_kick",
+      "sheet": 1,
+      "x": 769,
+      "y": 645,
+      "w": 185,
+      "h": 301,
+      "lx": 104,
+      "ly": 51
+    },
+    {
+      "name": "clinch_elbow",
+      "sheet": 1,
+      "x": 962,
+      "y": 645,
+      "w": 186,
+      "h": 299,
+      "lx": 99,
+      "ly": 67
+    },
+    {
+      "name": "iron_body",
+      "sheet": 1,
+      "x": 1156,
+      "y": 645,
+      "w": 186,
+      "h": 298,
+      "lx": 99,
+      "ly": 68
+    },
+    {
+      "name": "garuda_blaze_recover1",
+      "sheet": 1,
+      "x": 397,
+      "y": 331,
+      "w": 184,
+      "h": 299,
+      "lx": 103,
+      "ly": 62
+    },
+    {
+      "name": "clinch_elbow_windup2",
+      "sheet": 1,
+      "x": 1350,
+      "y": 645,
+      "w": 185,
+      "h": 297,
+      "lx": 98,
+      "ly": 65
+    },
+    {
+      "name": "roll_2",
+      "sheet": 1,
+      "x": 1543,
+      "y": 645,
+      "w": 186,
+      "h": 295,
+      "lx": 99,
+      "ly": 67
+    },
+    {
+      "name": "clinch_elbow_windup",
+      "sheet": 1,
+      "x": 589,
+      "y": 331,
+      "w": 184,
+      "h": 298,
+      "lx": 99,
+      "ly": 64
+    },
+    {
+      "name": "garuda_blaze",
+      "sheet": 1,
+      "x": 379,
+      "y": 972,
+      "w": 182,
+      "h": 301,
+      "lx": 99,
+      "ly": 64
+    },
+    {
+      "name": "roll_5",
+      "sheet": 1,
+      "x": 781,
+      "y": 331,
+      "w": 185,
+      "h": 296,
+      "lx": 99,
+      "ly": 66
+    },
+    {
+      "name": "victory",
+      "sheet": 1,
+      "x": 178,
+      "y": 1295,
+      "w": 176,
+      "h": 311,
+      "lx": 98,
+      "ly": 55
+    },
+    {
+      "name": "0_idle",
+      "sheet": 1,
+      "x": 619,
+      "y": 0,
+      "w": 184,
+      "h": 297,
+      "lx": 99,
+      "ly": 65
+    },
+    {
+      "name": "dash_recover",
+      "sheet": 1,
+      "x": 811,
+      "y": 0,
+      "w": 184,
+      "h": 297,
+      "lx": 99,
+      "ly": 65
+    },
+    {
+      "name": "jump_fall_2",
+      "sheet": 1,
+      "x": 1003,
+      "y": 0,
+      "w": 184,
+      "h": 297,
+      "lx": 104,
+      "ly": 65
+    },
+    {
+      "name": "jump_rise_2",
+      "sheet": 1,
+      "x": 1195,
+      "y": 0,
+      "w": 184,
+      "h": 297,
+      "lx": 99,
+      "ly": 65
+    },
+    {
+      "name": "roll_3",
+      "sheet": 1,
+      "x": 1387,
+      "y": 0,
+      "w": 184,
+      "h": 297,
+      "lx": 99,
+      "ly": 65
+    },
+    {
+      "name": "up_4",
+      "sheet": 1,
+      "x": 1579,
+      "y": 0,
+      "w": 184,
+      "h": 297,
+      "lx": 99,
+      "ly": 65
+    },
+    {
+      "name": "garuda_blaze_windup1",
+      "sheet": 1,
+      "x": 1771,
+      "y": 0,
+      "w": 184,
+      "h": 296,
+      "lx": 100,
+      "ly": 67
+    },
+    {
+      "name": "intro_6",
+      "sheet": 1,
+      "x": 974,
+      "y": 331,
+      "w": 184,
+      "h": 296,
+      "lx": 99,
+      "ly": 68
+    },
+    {
+      "name": "roll_1",
+      "sheet": 1,
+      "x": 1166,
+      "y": 331,
+      "w": 184,
+      "h": 296,
+      "lx": 100,
+      "ly": 66
+    },
+    {
+      "name": "idle_4",
+      "sheet": 1,
+      "x": 1737,
+      "y": 645,
+      "w": 185,
+      "h": 294,
+      "lx": 98,
+      "ly": 68
+    },
+    {
+      "name": "intro_3",
+      "sheet": 1,
+      "x": 1358,
+      "y": 331,
+      "w": 185,
+      "h": 294,
+      "lx": 99,
+      "ly": 69
+    },
+    {
+      "name": "defeat_2",
+      "sheet": 1,
+      "x": 569,
+      "y": 972,
+      "w": 184,
+      "h": 295,
+      "lx": 99,
+      "ly": 67
+    },
+    {
+      "name": "garuda_blaze_hold",
+      "sheet": 1,
+      "x": 761,
+      "y": 972,
+      "w": 184,
+      "h": 295,
+      "lx": 99,
+      "ly": 68
+    },
+    {
+      "name": "idle_2",
+      "sheet": 1,
+      "x": 953,
+      "y": 972,
+      "w": 184,
+      "h": 295,
+      "lx": 100,
+      "ly": 67
+    },
+    {
+      "name": "victory_2",
+      "sheet": 1,
+      "x": 362,
+      "y": 1295,
+      "w": 183,
+      "h": 296,
+      "lx": 100,
+      "ly": 66
+    },
+    {
+      "name": "taunt_1",
+      "sheet": 1,
+      "x": 1551,
+      "y": 331,
+      "w": 184,
+      "h": 294,
+      "lx": 99,
+      "ly": 68
+    },
+    {
+      "name": "taunt_3",
+      "sheet": 1,
+      "x": 1743,
+      "y": 331,
+      "w": 184,
+      "h": 294,
+      "lx": 100,
+      "ly": 68
+    },
+    {
+      "name": "victory_5",
+      "sheet": 1,
+      "x": 1145,
+      "y": 972,
+      "w": 184,
+      "h": 294,
+      "lx": 99,
+      "ly": 68
+    },
+    {
+      "name": "intro_2",
+      "sheet": 1,
+      "x": 553,
+      "y": 1295,
+      "w": 183,
+      "h": 295,
+      "lx": 100,
+      "ly": 67
+    },
+    {
+      "name": "taunt_2",
+      "sheet": 1,
+      "x": 744,
+      "y": 1295,
+      "w": 183,
+      "h": 295,
+      "lx": 100,
+      "ly": 67
+    },
+    {
+      "name": "clinch_elbow_recover",
+      "sheet": 1,
+      "x": 1337,
+      "y": 972,
+      "w": 184,
+      "h": 293,
+      "lx": 99,
+      "ly": 70
+    },
+    {
+      "name": "idle_5",
+      "sheet": 1,
+      "x": 1529,
+      "y": 972,
+      "w": 184,
+      "h": 293,
+      "lx": 99,
+      "ly": 71
+    },
+    {
+      "name": "garuda_blaze_windup2",
+      "sheet": 1,
+      "x": 935,
+      "y": 1295,
+      "w": 183,
+      "h": 294,
+      "lx": 100,
+      "ly": 68
+    },
+    {
+      "name": "roll_4",
+      "sheet": 1,
+      "x": 1126,
+      "y": 1295,
+      "w": 183,
+      "h": 294,
+      "lx": 100,
+      "ly": 68
+    },
+    {
+      "name": "intro_4",
+      "sheet": 1,
+      "x": 1721,
+      "y": 972,
+      "w": 183,
+      "h": 293,
+      "lx": 100,
+      "ly": 69
+    },
+    {
+      "name": "air_windup",
+      "sheet": 1,
+      "x": 1317,
+      "y": 1295,
+      "w": 201,
+      "h": 263,
+      "lx": 63,
+      "ly": 40
+    },
+    {
+      "name": "cast_recover",
+      "sheet": 1,
+      "x": 0,
+      "y": 1631,
+      "w": 178,
+      "h": 295,
+      "lx": 102,
+      "ly": 66
+    },
+    {
+      "name": "sweep_lunge",
+      "sheet": 1,
+      "x": 186,
+      "y": 1631,
+      "w": 170,
+      "h": 292,
+      "lx": 95,
+      "ly": 61
+    },
+    {
+      "name": "run_2",
+      "sheet": 1,
+      "x": 1526,
+      "y": 1295,
+      "w": 195,
+      "h": 242,
+      "lx": 70,
+      "ly": 65
+    },
+    {
+      "name": "down_4",
+      "sheet": 1,
+      "x": 1729,
+      "y": 1295,
+      "w": 305,
+      "h": 131,
+      "lx": 34,
+      "ly": 166
+    },
+    {
+      "name": "intro_5",
+      "sheet": 2,
+      "x": 0,
+      "y": 0,
+      "w": 172,
+      "h": 304,
+      "lx": 104,
+      "ly": 55
+    },
+    {
+      "name": "dash_windup",
+      "sheet": 2,
+      "x": 180,
+      "y": 0,
+      "w": 168,
+      "h": 303,
+      "lx": 108,
+      "ly": 54
+    },
+    {
+      "name": "up_1",
+      "sheet": 2,
+      "x": 356,
+      "y": 0,
+      "w": 175,
+      "h": 285,
+      "lx": 99,
+      "ly": 61
+    },
+    {
+      "name": "knee_strike",
+      "sheet": 2,
+      "x": 0,
+      "y": 312,
+      "w": 158,
+      "h": 312,
+      "lx": 105,
+      "ly": 52
+    },
+    {
+      "name": "jump_fall_1",
+      "sheet": 2,
+      "x": 0,
+      "y": 632,
+      "w": 149,
+      "h": 328,
+      "lx": 123,
+      "ly": 32
+    },
+    {
+      "name": "idle_3",
+      "sheet": 2,
+      "x": 157,
+      "y": 632,
+      "w": 151,
+      "h": 320,
+      "lx": 117,
+      "ly": 45
+    },
+    {
+      "name": "knee_strike_recover",
+      "sheet": 2,
+      "x": 316,
+      "y": 632,
+      "w": 154,
+      "h": 313,
+      "lx": 113,
+      "ly": 43
+    },
+    {
+      "name": "dashback_2",
+      "sheet": 2,
+      "x": 478,
+      "y": 632,
+      "w": 164,
+      "h": 292,
+      "lx": 102,
+      "ly": 68
+    },
+    {
+      "name": "knee_strike_windup2",
+      "sheet": 2,
+      "x": 166,
+      "y": 312,
+      "w": 154,
+      "h": 310,
+      "lx": 103,
+      "ly": 52
+    },
+    {
+      "name": "run_3",
+      "sheet": 2,
+      "x": 328,
+      "y": 312,
+      "w": 157,
+      "h": 303,
+      "lx": 108,
+      "ly": 62
+    },
+    {
+      "name": "knee_strike_windup",
+      "sheet": 2,
+      "x": 0,
+      "y": 968,
+      "w": 153,
+      "h": 310,
+      "lx": 109,
+      "ly": 54
+    },
+    {
+      "name": "down_3",
+      "sheet": 2,
+      "x": 0,
+      "y": 1286,
+      "w": 149,
+      "h": 315,
+      "lx": 115,
+      "ly": 50
+    },
+    {
+      "name": "muay_thai_champ_super_dive_windup",
+      "sheet": 2,
+      "x": 0,
+      "y": 1609,
+      "w": 147,
+      "h": 318,
+      "lx": 109,
+      "ly": 42
+    },
+    {
+      "name": "hit_2",
+      "sheet": 2,
+      "x": 650,
+      "y": 632,
+      "w": 159,
+      "h": 279,
+      "lx": 120,
+      "ly": 63
+    },
+    {
+      "name": "dashback_1",
+      "sheet": 2,
+      "x": 817,
+      "y": 632,
+      "w": 146,
+      "h": 273,
+      "lx": 123,
+      "ly": 57
+    },
+    {
+      "name": "down_1",
+      "sheet": 2,
+      "x": 539,
+      "y": 0,
+      "w": 138,
+      "h": 274,
+      "lx": 124,
+      "ly": 56
+    },
+    {
+      "name": "intro_1",
+      "sheet": 3,
+      "x": 0,
+      "y": 0,
+      "w": 144,
+      "h": 322,
+      "lx": 115,
+      "ly": 44
+    }
+  ]
+}

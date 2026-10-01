@@ -1,0 +1,1 @@
+Game item pickup: a teal gem diamond shape with lighter inner diamond, game gem pickup. 48x48 pixels. Transparent background. Game UI sprite.

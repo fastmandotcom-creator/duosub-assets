@@ -1,0 +1,503 @@
+{
+    "textures": [
+        {
+            "image": "sprite_sheet_p0.webp",
+            "format": "RGBA8888",
+            "size": {
+                "w": 2048,
+                "h": 2048
+            },
+            "scale": "1",
+            "frames": [
+                {
+                    "filename": "missile_spread_windup2",
+                    "frame": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 338,
+                        "h": 306
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 21,
+                        "y": 46,
+                        "w": 338,
+                        "h": 306
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "supreme_leader_super_beam_hit",
+                    "frame": {
+                        "x": 0,
+                        "y": 314,
+                        "w": 324,
+                        "h": 314
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 60,
+                        "y": 39,
+                        "w": 324,
+                        "h": 314
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "missile_spread_recover",
+                    "frame": {
+                        "x": 332,
+                        "y": 314,
+                        "w": 327,
+                        "h": 308
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 23,
+                        "y": 47,
+                        "w": 327,
+                        "h": 308
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "flag_slap_windup2",
+                    "frame": {
+                        "x": 0,
+                        "y": 636,
+                        "w": 317,
+                        "h": 313
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 27,
+                        "y": 44,
+                        "w": 317,
+                        "h": 313
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "saturation_barrage_hold",
+                    "frame": {
+                        "x": 0,
+                        "y": 957,
+                        "w": 311,
+                        "h": 316
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 62,
+                        "y": 40,
+                        "w": 311,
+                        "h": 316
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "victory_3",
+                    "frame": {
+                        "x": 0,
+                        "y": 1281,
+                        "w": 303,
+                        "h": 323
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 39,
+                        "y": 37,
+                        "w": 303,
+                        "h": 323
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "red_star_windup2",
+                    "frame": {
+                        "x": 311,
+                        "y": 1281,
+                        "w": 303,
+                        "h": 318
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 53,
+                        "y": 37,
+                        "w": 303,
+                        "h": 318
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "double_missile",
+                    "frame": {
+                        "x": 622,
+                        "y": 1281,
+                        "w": 307,
+                        "h": 311
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 46,
+                        "y": 40,
+                        "w": 307,
+                        "h": 311
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "missile_spread",
+                    "frame": {
+                        "x": 937,
+                        "y": 1281,
+                        "w": 349,
+                        "h": 273
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 20,
+                        "y": 71,
+                        "w": 349,
+                        "h": 273
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "red_star",
+                    "frame": {
+                        "x": 667,
+                        "y": 314,
+                        "w": 311,
+                        "h": 306
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 38,
+                        "y": 48,
+                        "w": 311,
+                        "h": 306
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "red_star_windup1",
+                    "frame": {
+                        "x": 0,
+                        "y": 1612,
+                        "w": 292,
+                        "h": 323
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 31,
+                        "y": 35,
+                        "w": 292,
+                        "h": 323
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "rocket_launch_follow",
+                    "frame": {
+                        "x": 325,
+                        "y": 636,
+                        "w": 302,
+                        "h": 312
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 63,
+                        "y": 44,
+                        "w": 302,
+                        "h": 312
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "flag_slap_recover",
+                    "frame": {
+                        "x": 319,
+                        "y": 957,
+                        "w": 299,
+                        "h": 314
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 41,
+                        "y": 42,
+                        "w": 299,
+                        "h": 314
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "flag_slap_windup",
+                    "frame": {
+                        "x": 300,
+                        "y": 1612,
+                        "w": 292,
+                        "h": 320
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 53,
+                        "y": 34,
+                        "w": 292,
+                        "h": 320
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "missile_spread_follow",
+                    "frame": {
+                        "x": 986,
+                        "y": 314,
+                        "w": 330,
+                        "h": 283
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 23,
+                        "y": 57,
+                        "w": 330,
+                        "h": 283
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "air_strike",
+                    "frame": {
+                        "x": 635,
+                        "y": 636,
+                        "w": 310,
+                        "h": 299
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 44,
+                        "y": 56,
+                        "w": 310,
+                        "h": 299
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "button_mash_follow",
+                    "frame": {
+                        "x": 600,
+                        "y": 1612,
+                        "w": 287,
+                        "h": 318
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 59,
+                        "y": 36,
+                        "w": 287,
+                        "h": 318
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "double_missile_follow",
+                    "frame": {
+                        "x": 895,
+                        "y": 1612,
+                        "w": 298,
+                        "h": 304
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 30,
+                        "y": 48,
+                        "w": 298,
+                        "h": 304
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "flag_slap",
+                    "frame": {
+                        "x": 626,
+                        "y": 957,
+                        "w": 290,
+                        "h": 312
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 59,
+                        "y": 41,
+                        "w": 290,
+                        "h": 312
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "flag_slap_follow",
+                    "frame": {
+                        "x": 1201,
+                        "y": 1612,
+                        "w": 301,
+                        "h": 299
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 57,
+                        "y": 51,
+                        "w": 301,
+                        "h": 299
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "double_missile_recover",
+                    "frame": {
+                        "x": 924,
+                        "y": 957,
+                        "w": 292,
+                        "h": 306
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 50,
+                        "y": 44,
+                        "w": 292,
+                        "h": 306
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "dashback_1",
+                    "frame": {
+                        "x": 1510,
+                        "y": 1612,
+                        "w": 243,
+                        "h": 281
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 72,
+                        "y": 40,
+                        "w": 243,
+                        "h": 281
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "defeat_1",
+                    "frame": {
+                        "x": 1761,
+                        "y": 1612,
+                        "w": 253,
+                        "h": 217
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 58,
+                        "y": 124,
+                        "w": 253,
+                        "h": 217
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "Arena Fighter",
+        "version": "4.0",
+        "frameCount": 23
+    }
+}

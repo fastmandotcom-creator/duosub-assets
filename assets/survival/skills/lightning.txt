@@ -1,0 +1,1 @@
+Skill icon: a yellow lightning bolt zigzag shape, game lightning skill icon. 48x48 pixels. Transparent background. Game UI sprite.

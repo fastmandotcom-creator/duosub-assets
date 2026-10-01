@@ -1,0 +1,74 @@
+{
+  "version": 3,
+  "source": "AI-generated original v3 word artillery character atlas, chroma-key removed, alpha-padded frames; weapons/projectiles/impacts are drawn procedurally at runtime",
+  "sheets": {
+    "characters": {
+      "image": "v3/characters.webp",
+      "grid": {
+        "columns": 5,
+        "rows": 1
+      },
+      "size": {
+        "w": 2172,
+        "h": 724
+      },
+      "frames": [
+        {
+          "name": "character-01",
+          "x": 8,
+          "y": 255,
+          "w": 250,
+          "h": 213,
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "name": "character-02",
+          "x": 442,
+          "y": 260,
+          "w": 285,
+          "h": 204,
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "name": "character-03",
+          "x": 876,
+          "y": 251,
+          "w": 243,
+          "h": 222,
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "name": "character-04",
+          "x": 1311,
+          "y": 263,
+          "w": 279,
+          "h": 198,
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "name": "character-05",
+          "x": 1745,
+          "y": 255,
+          "w": 241,
+          "h": 213,
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,440 @@
+{
+    "textures": [
+        {
+            "image": "sprite_sheet_p3.webp",
+            "format": "RGBA8888",
+            "size": {
+                "w": 2048,
+                "h": 2048
+            },
+            "scale": "1",
+            "frames": [
+                {
+                    "filename": "golf_club_swing_windup",
+                    "frame": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 184,
+                        "h": 346
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 87,
+                        "y": 23,
+                        "w": 184,
+                        "h": 346
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "0_idle",
+                    "frame": {
+                        "x": 192,
+                        "y": 0,
+                        "w": 185,
+                        "h": 337
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 96,
+                        "y": 31,
+                        "w": 185,
+                        "h": 337
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "elbow_strike",
+                    "frame": {
+                        "x": 385,
+                        "y": 0,
+                        "w": 185,
+                        "h": 337
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 96,
+                        "y": 31,
+                        "w": 185,
+                        "h": 337
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "elbow_strike_windup2",
+                    "frame": {
+                        "x": 578,
+                        "y": 0,
+                        "w": 185,
+                        "h": 337
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 96,
+                        "y": 32,
+                        "w": 185,
+                        "h": 337
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "elbow_strike_windup",
+                    "frame": {
+                        "x": 771,
+                        "y": 0,
+                        "w": 185,
+                        "h": 336
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 103,
+                        "y": 32,
+                        "w": 185,
+                        "h": 336
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "intro_3",
+                    "frame": {
+                        "x": 964,
+                        "y": 0,
+                        "w": 185,
+                        "h": 336
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 96,
+                        "y": 32,
+                        "w": 185,
+                        "h": 336
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_5",
+                    "frame": {
+                        "x": 1157,
+                        "y": 0,
+                        "w": 185,
+                        "h": 336
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 97,
+                        "y": 32,
+                        "w": 185,
+                        "h": 336
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "up_4",
+                    "frame": {
+                        "x": 1350,
+                        "y": 0,
+                        "w": 185,
+                        "h": 336
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 97,
+                        "y": 32,
+                        "w": 185,
+                        "h": 336
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "victory_5",
+                    "frame": {
+                        "x": 0,
+                        "y": 354,
+                        "w": 184,
+                        "h": 337
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 97,
+                        "y": 31,
+                        "w": 184,
+                        "h": 337
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "elbow_strike_recover",
+                    "frame": {
+                        "x": 1543,
+                        "y": 0,
+                        "w": 185,
+                        "h": 335
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 96,
+                        "y": 33,
+                        "w": 185,
+                        "h": 335
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "intro_5",
+                    "frame": {
+                        "x": 1736,
+                        "y": 0,
+                        "w": 185,
+                        "h": 335
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 97,
+                        "y": 33,
+                        "w": 185,
+                        "h": 335
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_6",
+                    "frame": {
+                        "x": 192,
+                        "y": 354,
+                        "w": 184,
+                        "h": 336
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 97,
+                        "y": 32,
+                        "w": 184,
+                        "h": 336
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "jump_rise_2",
+                    "frame": {
+                        "x": 384,
+                        "y": 354,
+                        "w": 184,
+                        "h": 335
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 98,
+                        "y": 34,
+                        "w": 184,
+                        "h": 335
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "idle_4",
+                    "frame": {
+                        "x": 0,
+                        "y": 699,
+                        "w": 183,
+                        "h": 336
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 103,
+                        "y": 32,
+                        "w": 183,
+                        "h": 336
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "up_3",
+                    "frame": {
+                        "x": 191,
+                        "y": 699,
+                        "w": 182,
+                        "h": 336
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 105,
+                        "y": 32,
+                        "w": 182,
+                        "h": 336
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "golf_club_swing",
+                    "frame": {
+                        "x": 0,
+                        "y": 1043,
+                        "w": 179,
+                        "h": 341
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 96,
+                        "y": 29,
+                        "w": 179,
+                        "h": 341
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "intro_2",
+                    "frame": {
+                        "x": 576,
+                        "y": 354,
+                        "w": 183,
+                        "h": 333
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 98,
+                        "y": 35,
+                        "w": 183,
+                        "h": 333
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "victory_4",
+                    "frame": {
+                        "x": 767,
+                        "y": 354,
+                        "w": 183,
+                        "h": 333
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 98,
+                        "y": 35,
+                        "w": 183,
+                        "h": 333
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "intro_1",
+                    "frame": {
+                        "x": 958,
+                        "y": 354,
+                        "w": 181,
+                        "h": 333
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 104,
+                        "y": 31,
+                        "w": 181,
+                        "h": 333
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "dashback_2",
+                    "frame": {
+                        "x": 1147,
+                        "y": 354,
+                        "w": 164,
+                        "h": 333
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 102,
+                        "y": 33,
+                        "w": 164,
+                        "h": 333
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "Arena Fighter",
+        "version": "4.0",
+        "frameCount": 20
+    }
+}

@@ -1,0 +1,734 @@
+{
+    "textures": [
+        {
+            "image": "sprite_sheet_p1.webp",
+            "format": "RGBA8888",
+            "size": {
+                "w": 2048,
+                "h": 2048
+            },
+            "scale": "1",
+            "frames": [
+                {
+                    "filename": "gold_storm_hold",
+                    "frame": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 246,
+                        "h": 350
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 74,
+                        "y": 20,
+                        "w": 246,
+                        "h": 350
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "money_throw_windup2",
+                    "frame": {
+                        "x": 254,
+                        "y": 0,
+                        "w": 256,
+                        "h": 334
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 60,
+                        "y": 33,
+                        "w": 256,
+                        "h": 334
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "tower_slam_hold",
+                    "frame": {
+                        "x": 518,
+                        "y": 0,
+                        "w": 255,
+                        "h": 330
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 79,
+                        "y": 36,
+                        "w": 255,
+                        "h": 330
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "money_throw",
+                    "frame": {
+                        "x": 0,
+                        "y": 358,
+                        "w": 240,
+                        "h": 350
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 81,
+                        "y": 17,
+                        "w": 240,
+                        "h": 350
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "gold_storm_windup1",
+                    "frame": {
+                        "x": 248,
+                        "y": 358,
+                        "w": 249,
+                        "h": 337
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 75,
+                        "y": 31,
+                        "w": 249,
+                        "h": 337
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "trump_super_slam",
+                    "frame": {
+                        "x": 0,
+                        "y": 716,
+                        "w": 243,
+                        "h": 344
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 60,
+                        "y": 36,
+                        "w": 243,
+                        "h": 344
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "elbow_strike_follow",
+                    "frame": {
+                        "x": 505,
+                        "y": 358,
+                        "w": 248,
+                        "h": 333
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 71,
+                        "y": 33,
+                        "w": 248,
+                        "h": 333
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "briefcase_smash",
+                    "frame": {
+                        "x": 0,
+                        "y": 1068,
+                        "w": 226,
+                        "h": 364
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 88,
+                        "y": 10,
+                        "w": 226,
+                        "h": 364
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "gold_storm",
+                    "frame": {
+                        "x": 781,
+                        "y": 0,
+                        "w": 250,
+                        "h": 327
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 70,
+                        "y": 45,
+                        "w": 250,
+                        "h": 327
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "victory_3",
+                    "frame": {
+                        "x": 251,
+                        "y": 716,
+                        "w": 240,
+                        "h": 335
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 67,
+                        "y": 33,
+                        "w": 240,
+                        "h": 335
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "double_fist",
+                    "frame": {
+                        "x": 761,
+                        "y": 358,
+                        "w": 242,
+                        "h": 332
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 72,
+                        "y": 35,
+                        "w": 242,
+                        "h": 332
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "money_throw_recover",
+                    "frame": {
+                        "x": 1011,
+                        "y": 358,
+                        "w": 241,
+                        "h": 331
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 85,
+                        "y": 35,
+                        "w": 241,
+                        "h": 331
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "tower_slam_windup1",
+                    "frame": {
+                        "x": 234,
+                        "y": 1068,
+                        "w": 235,
+                        "h": 338
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 95,
+                        "y": 31,
+                        "w": 235,
+                        "h": 338
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "cast_start",
+                    "frame": {
+                        "x": 1260,
+                        "y": 358,
+                        "w": 243,
+                        "h": 325
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 73,
+                        "y": 42,
+                        "w": 243,
+                        "h": 325
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_1",
+                    "frame": {
+                        "x": 499,
+                        "y": 716,
+                        "w": 236,
+                        "h": 334
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 51,
+                        "y": 34,
+                        "w": 236,
+                        "h": 334
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "trump_super_crown_fly",
+                    "frame": {
+                        "x": 743,
+                        "y": 716,
+                        "w": 237,
+                        "h": 332
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 74,
+                        "y": 37,
+                        "w": 237,
+                        "h": 332
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "tower_slam_recover1",
+                    "frame": {
+                        "x": 477,
+                        "y": 1068,
+                        "w": 236,
+                        "h": 333
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 96,
+                        "y": 35,
+                        "w": 236,
+                        "h": 333
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "tower_slam",
+                    "frame": {
+                        "x": 1511,
+                        "y": 358,
+                        "w": 249,
+                        "h": 314
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 78,
+                        "y": 43,
+                        "w": 249,
+                        "h": 314
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "tower_slam_recover2",
+                    "frame": {
+                        "x": 0,
+                        "y": 1440,
+                        "w": 230,
+                        "h": 336
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 94,
+                        "y": 31,
+                        "w": 230,
+                        "h": 336
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "jump_fall_1",
+                    "frame": {
+                        "x": 238,
+                        "y": 1440,
+                        "w": 230,
+                        "h": 335
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 80,
+                        "y": 30,
+                        "w": 230,
+                        "h": 335
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "hit_2",
+                    "frame": {
+                        "x": 476,
+                        "y": 1440,
+                        "w": 229,
+                        "h": 334
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 77,
+                        "y": 33,
+                        "w": 229,
+                        "h": 334
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "trump_super_toss2",
+                    "frame": {
+                        "x": 713,
+                        "y": 1440,
+                        "w": 228,
+                        "h": 334
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 86,
+                        "y": 32,
+                        "w": 228,
+                        "h": 334
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "hit",
+                    "frame": {
+                        "x": 988,
+                        "y": 716,
+                        "w": 228,
+                        "h": 330
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 86,
+                        "y": 37,
+                        "w": 228,
+                        "h": 330
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "briefcase_spin",
+                    "frame": {
+                        "x": 1768,
+                        "y": 358,
+                        "w": 254,
+                        "h": 295
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 74,
+                        "y": 68,
+                        "w": 254,
+                        "h": 295
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "taunt_1",
+                    "frame": {
+                        "x": 1224,
+                        "y": 716,
+                        "w": 227,
+                        "h": 330
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 82,
+                        "y": 35,
+                        "w": 227,
+                        "h": 330
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "air_strike",
+                    "frame": {
+                        "x": 1459,
+                        "y": 716,
+                        "w": 248,
+                        "h": 301
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 75,
+                        "y": 37,
+                        "w": 248,
+                        "h": 301
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "fist_pump",
+                    "frame": {
+                        "x": 949,
+                        "y": 1440,
+                        "w": 220,
+                        "h": 334
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 81,
+                        "y": 33,
+                        "w": 220,
+                        "h": 334
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "cast_recover",
+                    "frame": {
+                        "x": 1177,
+                        "y": 1440,
+                        "w": 220,
+                        "h": 334
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 84,
+                        "y": 34,
+                        "w": 220,
+                        "h": 334
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "trump_super_land",
+                    "frame": {
+                        "x": 1405,
+                        "y": 1440,
+                        "w": 220,
+                        "h": 332
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 84,
+                        "y": 35,
+                        "w": 220,
+                        "h": 332
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "double_fist_recover",
+                    "frame": {
+                        "x": 1633,
+                        "y": 1440,
+                        "w": 218,
+                        "h": 332
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 79,
+                        "y": 34,
+                        "w": 218,
+                        "h": 332
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "air_windup",
+                    "frame": {
+                        "x": 721,
+                        "y": 1068,
+                        "w": 211,
+                        "h": 329
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 83,
+                        "y": 33,
+                        "w": 211,
+                        "h": 329
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_2",
+                    "frame": {
+                        "x": 1039,
+                        "y": 0,
+                        "w": 205,
+                        "h": 323
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 74,
+                        "y": 38,
+                        "w": 205,
+                        "h": 323
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "run_3",
+                    "frame": {
+                        "x": 1252,
+                        "y": 0,
+                        "w": 194,
+                        "h": 323
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 87,
+                        "y": 37,
+                        "w": 194,
+                        "h": 323
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "down_3",
+                    "frame": {
+                        "x": 1859,
+                        "y": 1440,
+                        "w": 181,
+                        "h": 330
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 93,
+                        "y": 36,
+                        "w": 181,
+                        "h": 330
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "Arena Fighter",
+        "version": "4.0",
+        "frameCount": 34
+    }
+}

@@ -1,0 +1,1 @@
+Skill icon: a teal speed triangle pointing right with a smaller trailing triangle, game speed skill icon. 48x48 pixels. Transparent background. Game UI sprite.

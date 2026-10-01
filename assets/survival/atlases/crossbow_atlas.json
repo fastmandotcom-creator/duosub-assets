@@ -1,0 +1,8126 @@
+{
+  "textures": [
+    {
+      "image": "crossbow_atlas.webp",
+      "frames": [
+        {
+          "filename": "environment/hell_portal.webp",
+          "frame": {
+            "x": 0,
+            "y": 0,
+            "w": 256,
+            "h": 256
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 256,
+            "h": 256
+          },
+          "sourceSize": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "filename": "characters/potato.webp",
+          "frame": {
+            "x": 260,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "characters/highlight.webp",
+          "frame": {
+            "x": 414,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          },
+          "sourceSize": {
+            "w": 100,
+            "h": 100
+          }
+        },
+        {
+          "filename": "faces/beard/1.webp",
+          "frame": {
+            "x": 518,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/10.webp",
+          "frame": {
+            "x": 586,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/11.webp",
+          "frame": {
+            "x": 654,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/12.webp",
+          "frame": {
+            "x": 722,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/13.webp",
+          "frame": {
+            "x": 790,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/14.webp",
+          "frame": {
+            "x": 858,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/15.webp",
+          "frame": {
+            "x": 926,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/16.webp",
+          "frame": {
+            "x": 994,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/17.webp",
+          "frame": {
+            "x": 1062,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/18.webp",
+          "frame": {
+            "x": 1130,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/19.webp",
+          "frame": {
+            "x": 1198,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/2.webp",
+          "frame": {
+            "x": 1266,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/20.webp",
+          "frame": {
+            "x": 1334,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/21.webp",
+          "frame": {
+            "x": 1402,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/22.webp",
+          "frame": {
+            "x": 1470,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/23.webp",
+          "frame": {
+            "x": 1538,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/24.webp",
+          "frame": {
+            "x": 1606,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/25.webp",
+          "frame": {
+            "x": 1674,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/26.webp",
+          "frame": {
+            "x": 1742,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/27.webp",
+          "frame": {
+            "x": 1810,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/28.webp",
+          "frame": {
+            "x": 1878,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/29.webp",
+          "frame": {
+            "x": 1946,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/3.webp",
+          "frame": {
+            "x": 0,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/30.webp",
+          "frame": {
+            "x": 68,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/31.webp",
+          "frame": {
+            "x": 136,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/32.webp",
+          "frame": {
+            "x": 204,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/33.webp",
+          "frame": {
+            "x": 272,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/34.webp",
+          "frame": {
+            "x": 340,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/35.webp",
+          "frame": {
+            "x": 408,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/36.webp",
+          "frame": {
+            "x": 476,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/37.webp",
+          "frame": {
+            "x": 544,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/38.webp",
+          "frame": {
+            "x": 612,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/39.webp",
+          "frame": {
+            "x": 680,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/4.webp",
+          "frame": {
+            "x": 748,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/40.webp",
+          "frame": {
+            "x": 816,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/41.webp",
+          "frame": {
+            "x": 884,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/42.webp",
+          "frame": {
+            "x": 952,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/44.webp",
+          "frame": {
+            "x": 1020,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/45.webp",
+          "frame": {
+            "x": 1088,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/47.webp",
+          "frame": {
+            "x": 1156,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/49.webp",
+          "frame": {
+            "x": 1224,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/5.webp",
+          "frame": {
+            "x": 1292,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/51.webp",
+          "frame": {
+            "x": 1360,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/53.webp",
+          "frame": {
+            "x": 1428,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/55.webp",
+          "frame": {
+            "x": 1496,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/56.webp",
+          "frame": {
+            "x": 1564,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/57.webp",
+          "frame": {
+            "x": 1632,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/6.webp",
+          "frame": {
+            "x": 1700,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/7.webp",
+          "frame": {
+            "x": 1768,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/8.webp",
+          "frame": {
+            "x": 1836,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/beard/9.webp",
+          "frame": {
+            "x": 1904,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/brow/1.webp",
+          "frame": {
+            "x": 1972,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/brow/10.webp",
+          "frame": {
+            "x": 0,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/brow/11.webp",
+          "frame": {
+            "x": 68,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/brow/12.webp",
+          "frame": {
+            "x": 136,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/brow/13.webp",
+          "frame": {
+            "x": 204,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/brow/14.webp",
+          "frame": {
+            "x": 272,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/brow/15.webp",
+          "frame": {
+            "x": 340,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/brow/16.webp",
+          "frame": {
+            "x": 408,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/brow/2.webp",
+          "frame": {
+            "x": 476,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/brow/3.webp",
+          "frame": {
+            "x": 544,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/brow/4.webp",
+          "frame": {
+            "x": 612,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/brow/5.webp",
+          "frame": {
+            "x": 680,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/brow/6.webp",
+          "frame": {
+            "x": 748,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/brow/7.webp",
+          "frame": {
+            "x": 816,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/brow/8.webp",
+          "frame": {
+            "x": 884,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/brow/9.webp",
+          "frame": {
+            "x": 952,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/eyes/1.webp",
+          "frame": {
+            "x": 1020,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/eyes/10.webp",
+          "frame": {
+            "x": 1088,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/eyes/11.webp",
+          "frame": {
+            "x": 1156,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/eyes/12.webp",
+          "frame": {
+            "x": 1224,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/eyes/13.webp",
+          "frame": {
+            "x": 1292,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/eyes/14.webp",
+          "frame": {
+            "x": 1360,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/eyes/15.webp",
+          "frame": {
+            "x": 1428,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/eyes/16.webp",
+          "frame": {
+            "x": 1496,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/eyes/2.webp",
+          "frame": {
+            "x": 1564,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/eyes/3.webp",
+          "frame": {
+            "x": 1632,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/eyes/4.webp",
+          "frame": {
+            "x": 1700,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/eyes/5.webp",
+          "frame": {
+            "x": 1768,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/eyes/6.webp",
+          "frame": {
+            "x": 1836,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/eyes/7.webp",
+          "frame": {
+            "x": 1904,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/eyes/8.webp",
+          "frame": {
+            "x": 1972,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/eyes/9.webp",
+          "frame": {
+            "x": 0,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/glasses/1.webp",
+          "frame": {
+            "x": 68,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/glasses/10.webp",
+          "frame": {
+            "x": 136,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/glasses/11.webp",
+          "frame": {
+            "x": 204,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/glasses/12.webp",
+          "frame": {
+            "x": 272,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/glasses/13.webp",
+          "frame": {
+            "x": 340,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/glasses/14.webp",
+          "frame": {
+            "x": 408,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/glasses/15.webp",
+          "frame": {
+            "x": 476,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/glasses/16.webp",
+          "frame": {
+            "x": 544,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/glasses/2.webp",
+          "frame": {
+            "x": 612,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/glasses/3.webp",
+          "frame": {
+            "x": 680,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/glasses/4.webp",
+          "frame": {
+            "x": 748,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/glasses/5.webp",
+          "frame": {
+            "x": 816,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/glasses/6.webp",
+          "frame": {
+            "x": 884,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/glasses/7.webp",
+          "frame": {
+            "x": 952,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/glasses/8.webp",
+          "frame": {
+            "x": 1020,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/glasses/9.webp",
+          "frame": {
+            "x": 1088,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/hair/1.webp",
+          "frame": {
+            "x": 1156,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/hair/10.webp",
+          "frame": {
+            "x": 1224,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/hair/11.webp",
+          "frame": {
+            "x": 1292,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/hair/12.webp",
+          "frame": {
+            "x": 1360,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/hair/13.webp",
+          "frame": {
+            "x": 1428,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/hair/3.webp",
+          "frame": {
+            "x": 1496,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/hair/4.webp",
+          "frame": {
+            "x": 1564,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/hair/5.webp",
+          "frame": {
+            "x": 1632,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/hair/6.webp",
+          "frame": {
+            "x": 1700,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/hair/7.webp",
+          "frame": {
+            "x": 1768,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/hair/8.webp",
+          "frame": {
+            "x": 1836,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/hair/9.webp",
+          "frame": {
+            "x": 1904,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/mouth/1.webp",
+          "frame": {
+            "x": 1972,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/mouth/10.webp",
+          "frame": {
+            "x": 0,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/mouth/11.webp",
+          "frame": {
+            "x": 68,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/mouth/12.webp",
+          "frame": {
+            "x": 136,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/mouth/13.webp",
+          "frame": {
+            "x": 204,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/mouth/14.webp",
+          "frame": {
+            "x": 272,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/mouth/15.webp",
+          "frame": {
+            "x": 340,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/mouth/16.webp",
+          "frame": {
+            "x": 408,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/mouth/2.webp",
+          "frame": {
+            "x": 476,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/mouth/3.webp",
+          "frame": {
+            "x": 544,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/mouth/4.webp",
+          "frame": {
+            "x": 612,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/mouth/5.webp",
+          "frame": {
+            "x": 680,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/mouth/6.webp",
+          "frame": {
+            "x": 748,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/mouth/7.webp",
+          "frame": {
+            "x": 816,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/mouth/8.webp",
+          "frame": {
+            "x": 884,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/mouth/9.webp",
+          "frame": {
+            "x": 952,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/nose/1.webp",
+          "frame": {
+            "x": 1020,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/nose/10.webp",
+          "frame": {
+            "x": 1088,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/nose/11.webp",
+          "frame": {
+            "x": 1156,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/nose/12.webp",
+          "frame": {
+            "x": 1224,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/nose/13.webp",
+          "frame": {
+            "x": 1292,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/nose/14.webp",
+          "frame": {
+            "x": 1360,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/nose/15.webp",
+          "frame": {
+            "x": 1428,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/nose/16.webp",
+          "frame": {
+            "x": 1496,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/nose/2.webp",
+          "frame": {
+            "x": 1564,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/nose/3.webp",
+          "frame": {
+            "x": 1632,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/nose/4.webp",
+          "frame": {
+            "x": 1700,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/nose/5.webp",
+          "frame": {
+            "x": 1768,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/nose/6.webp",
+          "frame": {
+            "x": 1836,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/nose/7.webp",
+          "frame": {
+            "x": 1904,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/nose/8.webp",
+          "frame": {
+            "x": 1972,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "faces/nose/9.webp",
+          "frame": {
+            "x": 0,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "hats/10.webp",
+          "frame": {
+            "x": 68,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "hats/11.webp",
+          "frame": {
+            "x": 136,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "hats/12.webp",
+          "frame": {
+            "x": 204,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "hats/13.webp",
+          "frame": {
+            "x": 272,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "hats/14.webp",
+          "frame": {
+            "x": 340,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "hats/15.webp",
+          "frame": {
+            "x": 408,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "hats/16.webp",
+          "frame": {
+            "x": 476,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "hats/2.webp",
+          "frame": {
+            "x": 544,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "hats/3.webp",
+          "frame": {
+            "x": 612,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "hats/4.webp",
+          "frame": {
+            "x": 680,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "hats/5.webp",
+          "frame": {
+            "x": 748,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "hats/6.webp",
+          "frame": {
+            "x": 816,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "hats/7.webp",
+          "frame": {
+            "x": 884,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "hats/8.webp",
+          "frame": {
+            "x": 952,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "hats/9.webp",
+          "frame": {
+            "x": 1020,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "characters/legs.webp",
+          "frame": {
+            "x": 1088,
+            "y": 532,
+            "w": 100,
+            "h": 50
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 50
+          },
+          "sourceSize": {
+            "w": 100,
+            "h": 50
+          }
+        },
+        {
+          "filename": "items/bomb.webp",
+          "frame": {
+            "x": 1192,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "items/coin.webp",
+          "frame": {
+            "x": 1244,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "items/gem.webp",
+          "frame": {
+            "x": 1296,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "items/health.webp",
+          "frame": {
+            "x": 1348,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "items/key.webp",
+          "frame": {
+            "x": 1400,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "items/shield.webp",
+          "frame": {
+            "x": 1452,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "skills/explosion.webp",
+          "frame": {
+            "x": 1504,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "skills/heal.webp",
+          "frame": {
+            "x": 1556,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "skills/pierce.webp",
+          "frame": {
+            "x": 1608,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "skills/shield_effect.webp",
+          "frame": {
+            "x": 1660,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "skills/slash.webp",
+          "frame": {
+            "x": 1712,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "skills/speed.webp",
+          "frame": {
+            "x": 1764,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-potato",
+          "frame": {
+            "x": 260,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "arcade-potato1",
+          "frame": {
+            "x": 260,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "arcade-potato2",
+          "frame": {
+            "x": 260,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "arcade-potato3",
+          "frame": {
+            "x": 260,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "arcade-potato4",
+          "frame": {
+            "x": 260,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "arcade-potato5",
+          "frame": {
+            "x": 260,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "arcade-potato6",
+          "frame": {
+            "x": 260,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "arcade-highlight",
+          "frame": {
+            "x": 414,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 100
+          },
+          "sourceSize": {
+            "w": 100,
+            "h": 100
+          }
+        },
+        {
+          "filename": "arcade-material-gold",
+          "frame": {
+            "x": 1244,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-material-gold-0",
+          "frame": {
+            "x": 1244,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-material-gold-1",
+          "frame": {
+            "x": 1244,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-material-gold-2",
+          "frame": {
+            "x": 1244,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-material-gold-3",
+          "frame": {
+            "x": 1244,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-material-gold-4",
+          "frame": {
+            "x": 1244,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-material-gold-5",
+          "frame": {
+            "x": 1244,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-material-gold-6",
+          "frame": {
+            "x": 1244,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-material-gold-7",
+          "frame": {
+            "x": 1244,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-material-gold-8",
+          "frame": {
+            "x": 1244,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-material-gold-9",
+          "frame": {
+            "x": 1244,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-material-gold-10",
+          "frame": {
+            "x": 1244,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-item-health",
+          "frame": {
+            "x": 1348,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-item-shield",
+          "frame": {
+            "x": 1452,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-item-bomb",
+          "frame": {
+            "x": 1192,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-item-coin",
+          "frame": {
+            "x": 1244,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-item-gem",
+          "frame": {
+            "x": 1296,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-item-key",
+          "frame": {
+            "x": 1400,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "hell-portal",
+          "frame": {
+            "x": 0,
+            "y": 0,
+            "w": 256,
+            "h": 256
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 256,
+            "h": 256
+          },
+          "sourceSize": {
+            "w": 256,
+            "h": 256
+          }
+        },
+        {
+          "filename": "arcade-eyes-1",
+          "frame": {
+            "x": 1020,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-eyes-2",
+          "frame": {
+            "x": 1564,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-eyes-3",
+          "frame": {
+            "x": 1632,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-eyes-4",
+          "frame": {
+            "x": 1700,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-eyes-5",
+          "frame": {
+            "x": 1768,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-eyes-6",
+          "frame": {
+            "x": 1836,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-eyes-7",
+          "frame": {
+            "x": 1904,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-eyes-8",
+          "frame": {
+            "x": 1972,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-eyes-9",
+          "frame": {
+            "x": 0,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-eyes-10",
+          "frame": {
+            "x": 1088,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-eyes-11",
+          "frame": {
+            "x": 1156,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-eyes-12",
+          "frame": {
+            "x": 1224,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-eyes-13",
+          "frame": {
+            "x": 1292,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-eyes-14",
+          "frame": {
+            "x": 1360,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-eyes-15",
+          "frame": {
+            "x": 1428,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-eyes-16",
+          "frame": {
+            "x": 1496,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-mouth-1",
+          "frame": {
+            "x": 1972,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-mouth-2",
+          "frame": {
+            "x": 476,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-mouth-3",
+          "frame": {
+            "x": 544,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-mouth-4",
+          "frame": {
+            "x": 612,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-mouth-5",
+          "frame": {
+            "x": 680,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-mouth-6",
+          "frame": {
+            "x": 748,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-mouth-7",
+          "frame": {
+            "x": 816,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-mouth-8",
+          "frame": {
+            "x": 884,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-mouth-9",
+          "frame": {
+            "x": 952,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-mouth-10",
+          "frame": {
+            "x": 0,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-mouth-11",
+          "frame": {
+            "x": 68,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-mouth-12",
+          "frame": {
+            "x": 136,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-mouth-13",
+          "frame": {
+            "x": 204,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-mouth-14",
+          "frame": {
+            "x": 272,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-mouth-15",
+          "frame": {
+            "x": 340,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-mouth-16",
+          "frame": {
+            "x": 408,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-nose-1",
+          "frame": {
+            "x": 1020,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-nose-2",
+          "frame": {
+            "x": 1564,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-nose-3",
+          "frame": {
+            "x": 1632,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-nose-4",
+          "frame": {
+            "x": 1700,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-nose-5",
+          "frame": {
+            "x": 1768,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-nose-6",
+          "frame": {
+            "x": 1836,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-nose-7",
+          "frame": {
+            "x": 1904,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-nose-8",
+          "frame": {
+            "x": 1972,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-nose-9",
+          "frame": {
+            "x": 0,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-nose-10",
+          "frame": {
+            "x": 1088,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-nose-11",
+          "frame": {
+            "x": 1156,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-nose-12",
+          "frame": {
+            "x": 1224,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-nose-13",
+          "frame": {
+            "x": 1292,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-nose-14",
+          "frame": {
+            "x": 1360,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-nose-15",
+          "frame": {
+            "x": 1428,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-nose-16",
+          "frame": {
+            "x": 1496,
+            "y": 464,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-1",
+          "frame": {
+            "x": 518,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-2",
+          "frame": {
+            "x": 1266,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-3",
+          "frame": {
+            "x": 0,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-4",
+          "frame": {
+            "x": 748,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-5",
+          "frame": {
+            "x": 1292,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-6",
+          "frame": {
+            "x": 1700,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-7",
+          "frame": {
+            "x": 1768,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-8",
+          "frame": {
+            "x": 1836,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-9",
+          "frame": {
+            "x": 1904,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-10",
+          "frame": {
+            "x": 586,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-11",
+          "frame": {
+            "x": 654,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-12",
+          "frame": {
+            "x": 722,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-13",
+          "frame": {
+            "x": 790,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-14",
+          "frame": {
+            "x": 858,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-15",
+          "frame": {
+            "x": 926,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-16",
+          "frame": {
+            "x": 994,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-17",
+          "frame": {
+            "x": 1062,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-18",
+          "frame": {
+            "x": 1130,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-19",
+          "frame": {
+            "x": 1198,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-20",
+          "frame": {
+            "x": 1334,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-21",
+          "frame": {
+            "x": 1402,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-22",
+          "frame": {
+            "x": 1470,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-23",
+          "frame": {
+            "x": 1538,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-24",
+          "frame": {
+            "x": 1606,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-25",
+          "frame": {
+            "x": 1674,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-26",
+          "frame": {
+            "x": 1742,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-27",
+          "frame": {
+            "x": 1810,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-28",
+          "frame": {
+            "x": 1878,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-29",
+          "frame": {
+            "x": 1946,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-30",
+          "frame": {
+            "x": 68,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-31",
+          "frame": {
+            "x": 136,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-32",
+          "frame": {
+            "x": 204,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-33",
+          "frame": {
+            "x": 272,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-34",
+          "frame": {
+            "x": 340,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-35",
+          "frame": {
+            "x": 408,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-36",
+          "frame": {
+            "x": 476,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-37",
+          "frame": {
+            "x": 544,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-38",
+          "frame": {
+            "x": 612,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-39",
+          "frame": {
+            "x": 680,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-40",
+          "frame": {
+            "x": 816,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-41",
+          "frame": {
+            "x": 884,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-42",
+          "frame": {
+            "x": 952,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-44",
+          "frame": {
+            "x": 1020,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-45",
+          "frame": {
+            "x": 1088,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-47",
+          "frame": {
+            "x": 1156,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-49",
+          "frame": {
+            "x": 1224,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-51",
+          "frame": {
+            "x": 1360,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-53",
+          "frame": {
+            "x": 1428,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-55",
+          "frame": {
+            "x": 1496,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-56",
+          "frame": {
+            "x": 1564,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-beard-57",
+          "frame": {
+            "x": 1632,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-brow-1",
+          "frame": {
+            "x": 1972,
+            "y": 260,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-brow-2",
+          "frame": {
+            "x": 476,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-brow-3",
+          "frame": {
+            "x": 544,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-brow-4",
+          "frame": {
+            "x": 612,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-brow-5",
+          "frame": {
+            "x": 680,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-brow-6",
+          "frame": {
+            "x": 748,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-brow-7",
+          "frame": {
+            "x": 816,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-brow-8",
+          "frame": {
+            "x": 884,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-brow-9",
+          "frame": {
+            "x": 952,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-brow-10",
+          "frame": {
+            "x": 0,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-brow-11",
+          "frame": {
+            "x": 68,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-brow-12",
+          "frame": {
+            "x": 136,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-brow-13",
+          "frame": {
+            "x": 204,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-brow-14",
+          "frame": {
+            "x": 272,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-brow-15",
+          "frame": {
+            "x": 340,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-brow-16",
+          "frame": {
+            "x": 408,
+            "y": 328,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-glasses-1",
+          "frame": {
+            "x": 68,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-glasses-2",
+          "frame": {
+            "x": 612,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-glasses-3",
+          "frame": {
+            "x": 680,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-glasses-4",
+          "frame": {
+            "x": 748,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-glasses-5",
+          "frame": {
+            "x": 816,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-glasses-6",
+          "frame": {
+            "x": 884,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-glasses-7",
+          "frame": {
+            "x": 952,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-glasses-8",
+          "frame": {
+            "x": 1020,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-glasses-9",
+          "frame": {
+            "x": 1088,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-glasses-10",
+          "frame": {
+            "x": 136,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-glasses-11",
+          "frame": {
+            "x": 204,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-glasses-12",
+          "frame": {
+            "x": 272,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-glasses-13",
+          "frame": {
+            "x": 340,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-glasses-14",
+          "frame": {
+            "x": 408,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-glasses-15",
+          "frame": {
+            "x": 476,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-glasses-16",
+          "frame": {
+            "x": 544,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hair-1",
+          "frame": {
+            "x": 1156,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hair-3",
+          "frame": {
+            "x": 1496,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hair-4",
+          "frame": {
+            "x": 1564,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hair-5",
+          "frame": {
+            "x": 1632,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hair-6",
+          "frame": {
+            "x": 1700,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hair-7",
+          "frame": {
+            "x": 1768,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hair-8",
+          "frame": {
+            "x": 1836,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hair-9",
+          "frame": {
+            "x": 1904,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hair-10",
+          "frame": {
+            "x": 1224,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hair-11",
+          "frame": {
+            "x": 1292,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hair-12",
+          "frame": {
+            "x": 1360,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hair-13",
+          "frame": {
+            "x": 1428,
+            "y": 396,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hat-2",
+          "frame": {
+            "x": 544,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hat-3",
+          "frame": {
+            "x": 612,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hat-4",
+          "frame": {
+            "x": 680,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hat-5",
+          "frame": {
+            "x": 748,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hat-6",
+          "frame": {
+            "x": 816,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hat-7",
+          "frame": {
+            "x": 884,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hat-8",
+          "frame": {
+            "x": 952,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hat-9",
+          "frame": {
+            "x": 1020,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hat-10",
+          "frame": {
+            "x": 68,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hat-11",
+          "frame": {
+            "x": 136,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hat-12",
+          "frame": {
+            "x": 204,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hat-13",
+          "frame": {
+            "x": 272,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hat-14",
+          "frame": {
+            "x": 340,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hat-15",
+          "frame": {
+            "x": 408,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-hat-16",
+          "frame": {
+            "x": 476,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-acc-2",
+          "frame": {
+            "x": 544,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-acc-3",
+          "frame": {
+            "x": 612,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-acc-4",
+          "frame": {
+            "x": 680,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-acc-5",
+          "frame": {
+            "x": 748,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-acc-6",
+          "frame": {
+            "x": 816,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-acc-7",
+          "frame": {
+            "x": 884,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-acc-8",
+          "frame": {
+            "x": 952,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-acc-9",
+          "frame": {
+            "x": 1020,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-acc-10",
+          "frame": {
+            "x": 68,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-acc-11",
+          "frame": {
+            "x": 136,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-acc-12",
+          "frame": {
+            "x": 204,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-acc-13",
+          "frame": {
+            "x": 272,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-acc-14",
+          "frame": {
+            "x": 340,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-acc-15",
+          "frame": {
+            "x": 408,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-acc-16",
+          "frame": {
+            "x": 476,
+            "y": 532,
+            "w": 64,
+            "h": 64
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+          },
+          "sourceSize": {
+            "w": 64,
+            "h": 64
+          }
+        },
+        {
+          "filename": "arcade-icon-atk_up",
+          "frame": {
+            "x": 1712,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-icon-atk_speed",
+          "frame": {
+            "x": 1764,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-icon-pierce",
+          "frame": {
+            "x": 1608,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-icon-crit_strike",
+          "frame": {
+            "x": 1504,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-icon-life_drain",
+          "frame": {
+            "x": 1556,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-icon-range_extend",
+          "frame": {
+            "x": 1608,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-icon-max_hp",
+          "frame": {
+            "x": 1660,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-icon-regen",
+          "frame": {
+            "x": 1556,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-icon-move_speed",
+          "frame": {
+            "x": 1764,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-icon-iron_skin",
+          "frame": {
+            "x": 1660,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-icon-quick_step",
+          "frame": {
+            "x": 1764,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        },
+        {
+          "filename": "arcade-icon-weapon_upgrade",
+          "frame": {
+            "x": 1712,
+            "y": 532,
+            "w": 48,
+            "h": 48
+          },
+          "rotated": false,
+          "trimmed": false,
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+          },
+          "sourceSize": {
+            "w": 48,
+            "h": 48
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "crossbow-atlas-builder",
+    "version": "1.0",
+    "image": "crossbow_atlas.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 596
+    },
+    "scale": "1"
+  }
+}

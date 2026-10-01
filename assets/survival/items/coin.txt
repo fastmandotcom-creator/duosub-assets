@@ -1,0 +1,1 @@
+Game item pickup: a gold coin with a dollar sign inside, game currency pickup. 48x48 pixels. Transparent background. Game UI sprite.

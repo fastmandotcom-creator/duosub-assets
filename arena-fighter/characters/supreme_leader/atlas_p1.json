@@ -1,0 +1,671 @@
+{
+    "textures": [
+        {
+            "image": "sprite_sheet_p1.webp",
+            "format": "RGBA8888",
+            "size": {
+                "w": 2048,
+                "h": 2048
+            },
+            "scale": "1",
+            "frames": [
+                {
+                    "filename": "medal_flash_follow",
+                    "frame": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 286,
+                        "h": 315
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 56,
+                        "y": 38,
+                        "w": 286,
+                        "h": 315
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "cast_release",
+                    "frame": {
+                        "x": 0,
+                        "y": 323,
+                        "w": 283,
+                        "h": 317
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 57,
+                        "y": 37,
+                        "w": 283,
+                        "h": 317
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "command_stance",
+                    "frame": {
+                        "x": 294,
+                        "y": 0,
+                        "w": 289,
+                        "h": 309
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 26,
+                        "y": 54,
+                        "w": 289,
+                        "h": 309
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "saturation_barrage_windup1",
+                    "frame": {
+                        "x": 0,
+                        "y": 648,
+                        "w": 277,
+                        "h": 320
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 80,
+                        "y": 37,
+                        "w": 277,
+                        "h": 320
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "red_star_recover2",
+                    "frame": {
+                        "x": 591,
+                        "y": 0,
+                        "w": 285,
+                        "h": 309
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 61,
+                        "y": 42,
+                        "w": 285,
+                        "h": 309
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "cast_start",
+                    "frame": {
+                        "x": 0,
+                        "y": 976,
+                        "w": 273,
+                        "h": 322
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 59,
+                        "y": 37,
+                        "w": 273,
+                        "h": 322
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "supreme_leader_super_shock2",
+                    "frame": {
+                        "x": 0,
+                        "y": 1306,
+                        "w": 271,
+                        "h": 323
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 72,
+                        "y": 35,
+                        "w": 271,
+                        "h": 323
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "supreme_leader_super_land",
+                    "frame": {
+                        "x": 291,
+                        "y": 323,
+                        "w": 276,
+                        "h": 316
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 75,
+                        "y": 38,
+                        "w": 276,
+                        "h": 316
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "jump_rise_3",
+                    "frame": {
+                        "x": 0,
+                        "y": 1637,
+                        "w": 269,
+                        "h": 324
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 54,
+                        "y": 32,
+                        "w": 269,
+                        "h": 324
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "double_missile_windup2",
+                    "frame": {
+                        "x": 884,
+                        "y": 0,
+                        "w": 282,
+                        "h": 309
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 70,
+                        "y": 41,
+                        "w": 282,
+                        "h": 309
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "saturation_barrage_windup2",
+                    "frame": {
+                        "x": 575,
+                        "y": 323,
+                        "w": 275,
+                        "h": 315
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 68,
+                        "y": 40,
+                        "w": 275,
+                        "h": 315
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "jump_fall_2",
+                    "frame": {
+                        "x": 285,
+                        "y": 648,
+                        "w": 269,
+                        "h": 317
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 51,
+                        "y": 39,
+                        "w": 269,
+                        "h": 317
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "supreme_leader_super_wall_up",
+                    "frame": {
+                        "x": 281,
+                        "y": 976,
+                        "w": 268,
+                        "h": 318
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 65,
+                        "y": 38,
+                        "w": 268,
+                        "h": 318
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "air_recover",
+                    "frame": {
+                        "x": 562,
+                        "y": 648,
+                        "w": 268,
+                        "h": 317
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 59,
+                        "y": 39,
+                        "w": 268,
+                        "h": 317
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "red_star_hold",
+                    "frame": {
+                        "x": 838,
+                        "y": 648,
+                        "w": 268,
+                        "h": 317
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 77,
+                        "y": 40,
+                        "w": 268,
+                        "h": 317
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "jump_land",
+                    "frame": {
+                        "x": 1174,
+                        "y": 0,
+                        "w": 271,
+                        "h": 307
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 61,
+                        "y": 42,
+                        "w": 271,
+                        "h": 307
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "missile_spread_windup",
+                    "frame": {
+                        "x": 1114,
+                        "y": 648,
+                        "w": 263,
+                        "h": 315
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 61,
+                        "y": 39,
+                        "w": 263,
+                        "h": 315
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "double_missile_windup",
+                    "frame": {
+                        "x": 1385,
+                        "y": 648,
+                        "w": 266,
+                        "h": 309
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 64,
+                        "y": 45,
+                        "w": 266,
+                        "h": 309
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "rocket_launch",
+                    "frame": {
+                        "x": 557,
+                        "y": 976,
+                        "w": 253,
+                        "h": 316
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 72,
+                        "y": 40,
+                        "w": 253,
+                        "h": 316
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "nuke_drop_follow",
+                    "frame": {
+                        "x": 1659,
+                        "y": 648,
+                        "w": 260,
+                        "h": 299
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 73,
+                        "y": 52,
+                        "w": 260,
+                        "h": 299
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "dash_windup",
+                    "frame": {
+                        "x": 277,
+                        "y": 1637,
+                        "w": 231,
+                        "h": 324
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 72,
+                        "y": 33,
+                        "w": 231,
+                        "h": 324
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "cast_recover",
+                    "frame": {
+                        "x": 516,
+                        "y": 1637,
+                        "w": 222,
+                        "h": 323
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 81,
+                        "y": 35,
+                        "w": 222,
+                        "h": 323
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_4",
+                    "frame": {
+                        "x": 818,
+                        "y": 976,
+                        "w": 225,
+                        "h": 316
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 79,
+                        "y": 37,
+                        "w": 225,
+                        "h": 316
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "dashback_2",
+                    "frame": {
+                        "x": 746,
+                        "y": 1637,
+                        "w": 223,
+                        "h": 318
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 74,
+                        "y": 36,
+                        "w": 223,
+                        "h": 318
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "intro_6",
+                    "frame": {
+                        "x": 977,
+                        "y": 1637,
+                        "w": 222,
+                        "h": 317
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 76,
+                        "y": 38,
+                        "w": 222,
+                        "h": 317
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "down_3",
+                    "frame": {
+                        "x": 1207,
+                        "y": 1637,
+                        "w": 222,
+                        "h": 316
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 86,
+                        "y": 37,
+                        "w": 222,
+                        "h": 316
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "run_1",
+                    "frame": {
+                        "x": 1437,
+                        "y": 1637,
+                        "w": 222,
+                        "h": 312
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 83,
+                        "y": 36,
+                        "w": 222,
+                        "h": 312
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "run_4",
+                    "frame": {
+                        "x": 1667,
+                        "y": 1637,
+                        "w": 227,
+                        "h": 305
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 73,
+                        "y": 42,
+                        "w": 227,
+                        "h": 305
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "intro_4",
+                    "frame": {
+                        "x": 279,
+                        "y": 1306,
+                        "w": 215,
+                        "h": 321
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 84,
+                        "y": 37,
+                        "w": 215,
+                        "h": 321
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "jump_rise_1",
+                    "frame": {
+                        "x": 1453,
+                        "y": 0,
+                        "w": 228,
+                        "h": 285
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 65,
+                        "y": 39,
+                        "w": 228,
+                        "h": 285
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "run_2",
+                    "frame": {
+                        "x": 1689,
+                        "y": 0,
+                        "w": 225,
+                        "h": 282
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 72,
+                        "y": 43,
+                        "w": 225,
+                        "h": 282
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "Arena Fighter",
+        "version": "4.0",
+        "frameCount": 31
+    }
+}

@@ -1,0 +1,881 @@
+{
+    "textures": [
+        {
+            "image": "sprite_sheet_p2.webp",
+            "format": "RGBA8888",
+            "size": {
+                "w": 2048,
+                "h": 2048
+            },
+            "scale": "1",
+            "frames": [
+                {
+                    "filename": "briefcase_smash_recover",
+                    "frame": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 223,
+                        "h": 345
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 77,
+                        "y": 23,
+                        "w": 223,
+                        "h": 345
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "trump_super_shock2",
+                    "frame": {
+                        "x": 231,
+                        "y": 0,
+                        "w": 228,
+                        "h": 336
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 96,
+                        "y": 32,
+                        "w": 228,
+                        "h": 336
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "guard",
+                    "frame": {
+                        "x": 0,
+                        "y": 353,
+                        "w": 226,
+                        "h": 337
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 77,
+                        "y": 33,
+                        "w": 226,
+                        "h": 337
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "briefcase_smash_windup",
+                    "frame": {
+                        "x": 0,
+                        "y": 698,
+                        "w": 212,
+                        "h": 357
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 91,
+                        "y": 15,
+                        "w": 212,
+                        "h": 357
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "briefcase_smash_windup2",
+                    "frame": {
+                        "x": 220,
+                        "y": 698,
+                        "w": 212,
+                        "h": 354
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 79,
+                        "y": 15,
+                        "w": 212,
+                        "h": 354
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "fist_pump_follow",
+                    "frame": {
+                        "x": 467,
+                        "y": 0,
+                        "w": 222,
+                        "h": 335
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 79,
+                        "y": 34,
+                        "w": 222,
+                        "h": 335
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "golf_club_swing_windup2",
+                    "frame": {
+                        "x": 440,
+                        "y": 698,
+                        "w": 205,
+                        "h": 349
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 76,
+                        "y": 22,
+                        "w": 205,
+                        "h": 349
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "jump_fall_2",
+                    "frame": {
+                        "x": 653,
+                        "y": 698,
+                        "w": 212,
+                        "h": 337
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 81,
+                        "y": 28,
+                        "w": 212,
+                        "h": 337
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "trump_super_shock1",
+                    "frame": {
+                        "x": 873,
+                        "y": 698,
+                        "w": 212,
+                        "h": 335
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 96,
+                        "y": 33,
+                        "w": 212,
+                        "h": 335
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "golf_club_swing_recover",
+                    "frame": {
+                        "x": 0,
+                        "y": 1063,
+                        "w": 201,
+                        "h": 353
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 77,
+                        "y": 18,
+                        "w": 201,
+                        "h": 353
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "up_1",
+                    "frame": {
+                        "x": 1093,
+                        "y": 698,
+                        "w": 218,
+                        "h": 325
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 81,
+                        "y": 35,
+                        "w": 218,
+                        "h": 325
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "money_throw_windup",
+                    "frame": {
+                        "x": 209,
+                        "y": 1063,
+                        "w": 198,
+                        "h": 350
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 79,
+                        "y": 21,
+                        "w": 198,
+                        "h": 350
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "cast_peak",
+                    "frame": {
+                        "x": 1319,
+                        "y": 698,
+                        "w": 213,
+                        "h": 325
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 79,
+                        "y": 41,
+                        "w": 213,
+                        "h": 325
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "golf_club_swing_follow",
+                    "frame": {
+                        "x": 415,
+                        "y": 1063,
+                        "w": 195,
+                        "h": 348
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 74,
+                        "y": 21,
+                        "w": 195,
+                        "h": 348
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "trump_super_deal",
+                    "frame": {
+                        "x": 697,
+                        "y": 0,
+                        "w": 202,
+                        "h": 333
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 85,
+                        "y": 35,
+                        "w": 202,
+                        "h": 333
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "run_1",
+                    "frame": {
+                        "x": 1540,
+                        "y": 698,
+                        "w": 208,
+                        "h": 319
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 78,
+                        "y": 43,
+                        "w": 208,
+                        "h": 319
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "up_2",
+                    "frame": {
+                        "x": 907,
+                        "y": 0,
+                        "w": 200,
+                        "h": 331
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 78,
+                        "y": 33,
+                        "w": 200,
+                        "h": 331
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "trump_super_tower_rise",
+                    "frame": {
+                        "x": 0,
+                        "y": 1424,
+                        "w": 185,
+                        "h": 354
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 98,
+                        "y": 15,
+                        "w": 185,
+                        "h": 354
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "fist_pump_windup",
+                    "frame": {
+                        "x": 618,
+                        "y": 1063,
+                        "w": 195,
+                        "h": 332
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 98,
+                        "y": 36,
+                        "w": 195,
+                        "h": 332
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "victory_2",
+                    "frame": {
+                        "x": 193,
+                        "y": 1424,
+                        "w": 188,
+                        "h": 343
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 93,
+                        "y": 25,
+                        "w": 188,
+                        "h": 343
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "fist_pump_recover",
+                    "frame": {
+                        "x": 389,
+                        "y": 1424,
+                        "w": 189,
+                        "h": 341
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 102,
+                        "y": 30,
+                        "w": 189,
+                        "h": 341
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "victory",
+                    "frame": {
+                        "x": 821,
+                        "y": 1063,
+                        "w": 194,
+                        "h": 332
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 91,
+                        "y": 34,
+                        "w": 194,
+                        "h": 332
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "fist_pump_windup2",
+                    "frame": {
+                        "x": 586,
+                        "y": 1424,
+                        "w": 191,
+                        "h": 337
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 91,
+                        "y": 31,
+                        "w": 191,
+                        "h": 337
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "dash_windup",
+                    "frame": {
+                        "x": 1023,
+                        "y": 1063,
+                        "w": 193,
+                        "h": 332
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 105,
+                        "y": 34,
+                        "w": 193,
+                        "h": 332
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "taunt_3",
+                    "frame": {
+                        "x": 785,
+                        "y": 1424,
+                        "w": 190,
+                        "h": 334
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 92,
+                        "y": 34,
+                        "w": 190,
+                        "h": 334
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "idle_2",
+                    "frame": {
+                        "x": 234,
+                        "y": 353,
+                        "w": 187,
+                        "h": 336
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 96,
+                        "y": 30,
+                        "w": 187,
+                        "h": 336
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "jump_rise_1",
+                    "frame": {
+                        "x": 1224,
+                        "y": 1063,
+                        "w": 189,
+                        "h": 330
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 90,
+                        "y": 35,
+                        "w": 189,
+                        "h": 330
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "intro_6",
+                    "frame": {
+                        "x": 429,
+                        "y": 353,
+                        "w": 185,
+                        "h": 335
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 96,
+                        "y": 34,
+                        "w": 185,
+                        "h": 335
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_3",
+                    "frame": {
+                        "x": 622,
+                        "y": 353,
+                        "w": 185,
+                        "h": 335
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 96,
+                        "y": 33,
+                        "w": 185,
+                        "h": 335
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "roll_4",
+                    "frame": {
+                        "x": 815,
+                        "y": 353,
+                        "w": 185,
+                        "h": 335
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 96,
+                        "y": 33,
+                        "w": 185,
+                        "h": 335
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "trump_super_slam_windup",
+                    "frame": {
+                        "x": 1008,
+                        "y": 353,
+                        "w": 185,
+                        "h": 335
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 96,
+                        "y": 35,
+                        "w": 185,
+                        "h": 335
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "idle_3",
+                    "frame": {
+                        "x": 1201,
+                        "y": 353,
+                        "w": 185,
+                        "h": 334
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 104,
+                        "y": 36,
+                        "w": 185,
+                        "h": 334
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "taunt_2",
+                    "frame": {
+                        "x": 1394,
+                        "y": 353,
+                        "w": 185,
+                        "h": 334
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 96,
+                        "y": 34,
+                        "w": 185,
+                        "h": 334
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "trump_super_tower_grab",
+                    "frame": {
+                        "x": 1587,
+                        "y": 353,
+                        "w": 185,
+                        "h": 334
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 96,
+                        "y": 34,
+                        "w": 185,
+                        "h": 334
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "idle_5",
+                    "frame": {
+                        "x": 1780,
+                        "y": 353,
+                        "w": 184,
+                        "h": 334
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 98,
+                        "y": 34,
+                        "w": 184,
+                        "h": 334
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "trump_super_grin",
+                    "frame": {
+                        "x": 983,
+                        "y": 1424,
+                        "w": 185,
+                        "h": 332
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 96,
+                        "y": 38,
+                        "w": 185,
+                        "h": 332
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "dash_recover",
+                    "frame": {
+                        "x": 1176,
+                        "y": 1424,
+                        "w": 184,
+                        "h": 332
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 97,
+                        "y": 35,
+                        "w": 184,
+                        "h": 332
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "intro_4",
+                    "frame": {
+                        "x": 1368,
+                        "y": 1424,
+                        "w": 183,
+                        "h": 332
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 98,
+                        "y": 36,
+                        "w": 183,
+                        "h": 332
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "defeat_2",
+                    "frame": {
+                        "x": 1559,
+                        "y": 1424,
+                        "w": 182,
+                        "h": 330
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 99,
+                        "y": 36,
+                        "w": 182,
+                        "h": 330
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "down_1",
+                    "frame": {
+                        "x": 1749,
+                        "y": 1424,
+                        "w": 182,
+                        "h": 326
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 90,
+                        "y": 37,
+                        "w": 182,
+                        "h": 326
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "defeat_1",
+                    "frame": {
+                        "x": 1756,
+                        "y": 698,
+                        "w": 221,
+                        "h": 267
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 91,
+                        "y": 82,
+                        "w": 221,
+                        "h": 267
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "Arena Fighter",
+        "version": "4.0",
+        "frameCount": 41
+    }
+}

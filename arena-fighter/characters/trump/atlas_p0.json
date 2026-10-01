@@ -1,0 +1,566 @@
+{
+    "textures": [
+        {
+            "image": "sprite_sheet_p0.webp",
+            "format": "RGBA8888",
+            "size": {
+                "w": 2048,
+                "h": 2048
+            },
+            "scale": "1",
+            "frames": [
+                {
+                    "filename": "trump_super_toss1",
+                    "frame": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 300,
+                        "h": 328
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 59,
+                        "y": 38,
+                        "w": 300,
+                        "h": 328
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "gold_storm_windup2",
+                    "frame": {
+                        "x": 0,
+                        "y": 336,
+                        "w": 265,
+                        "h": 358
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 59,
+                        "y": 13,
+                        "w": 265,
+                        "h": 358
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "wall_smash_follow",
+                    "frame": {
+                        "x": 273,
+                        "y": 336,
+                        "w": 287,
+                        "h": 330
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 61,
+                        "y": 37,
+                        "w": 287,
+                        "h": 330
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "wall_smash_windup2",
+                    "frame": {
+                        "x": 0,
+                        "y": 702,
+                        "w": 284,
+                        "h": 331
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 62,
+                        "y": 36,
+                        "w": 284,
+                        "h": 331
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "double_fist_follow",
+                    "frame": {
+                        "x": 568,
+                        "y": 336,
+                        "w": 285,
+                        "h": 327
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 47,
+                        "y": 37,
+                        "w": 285,
+                        "h": 327
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "gold_storm_recover1",
+                    "frame": {
+                        "x": 0,
+                        "y": 1041,
+                        "w": 265,
+                        "h": 351
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 59,
+                        "y": 17,
+                        "w": 265,
+                        "h": 351
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "cast_release",
+                    "frame": {
+                        "x": 861,
+                        "y": 336,
+                        "w": 284,
+                        "h": 324
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 63,
+                        "y": 38,
+                        "w": 284,
+                        "h": 324
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "double_fist_windup2",
+                    "frame": {
+                        "x": 308,
+                        "y": 0,
+                        "w": 281,
+                        "h": 327
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 39,
+                        "y": 38,
+                        "w": 281,
+                        "h": 327
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "double_fist_windup",
+                    "frame": {
+                        "x": 292,
+                        "y": 702,
+                        "w": 275,
+                        "h": 329
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 52,
+                        "y": 35,
+                        "w": 275,
+                        "h": 329
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "jump_rise_3",
+                    "frame": {
+                        "x": 273,
+                        "y": 1041,
+                        "w": 265,
+                        "h": 335
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 59,
+                        "y": 30,
+                        "w": 265,
+                        "h": 335
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "wall_smash_windup",
+                    "frame": {
+                        "x": 546,
+                        "y": 1041,
+                        "w": 268,
+                        "h": 331
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 72,
+                        "y": 34,
+                        "w": 268,
+                        "h": 331
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "wall_smash",
+                    "frame": {
+                        "x": 1153,
+                        "y": 336,
+                        "w": 288,
+                        "h": 304
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 22,
+                        "y": 56,
+                        "w": 288,
+                        "h": 304
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "tower_slam_windup2",
+                    "frame": {
+                        "x": 0,
+                        "y": 1400,
+                        "w": 261,
+                        "h": 335
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 74,
+                        "y": 34,
+                        "w": 261,
+                        "h": 335
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "wall_smash_recover",
+                    "frame": {
+                        "x": 269,
+                        "y": 1400,
+                        "w": 259,
+                        "h": 334
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 77,
+                        "y": 32,
+                        "w": 259,
+                        "h": 334
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "briefcase_smash_follow",
+                    "frame": {
+                        "x": 822,
+                        "y": 1041,
+                        "w": 266,
+                        "h": 325
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 62,
+                        "y": 35,
+                        "w": 266,
+                        "h": 325
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "gold_storm_recover2",
+                    "frame": {
+                        "x": 536,
+                        "y": 1400,
+                        "w": 260,
+                        "h": 332
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 68,
+                        "y": 35,
+                        "w": 260,
+                        "h": 332
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "money_throw_follow",
+                    "frame": {
+                        "x": 804,
+                        "y": 1400,
+                        "w": 264,
+                        "h": 326
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 77,
+                        "y": 35,
+                        "w": 264,
+                        "h": 326
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "crown_smash",
+                    "frame": {
+                        "x": 1096,
+                        "y": 1041,
+                        "w": 274,
+                        "h": 313
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 61,
+                        "y": 57,
+                        "w": 274,
+                        "h": 313
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "jump_land",
+                    "frame": {
+                        "x": 1076,
+                        "y": 1400,
+                        "w": 264,
+                        "h": 324
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 61,
+                        "y": 34,
+                        "w": 264,
+                        "h": 324
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "money_cannon",
+                    "frame": {
+                        "x": 1449,
+                        "y": 336,
+                        "w": 266,
+                        "h": 298
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 64,
+                        "y": 63,
+                        "w": 266,
+                        "h": 298
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "run_4",
+                    "frame": {
+                        "x": 1348,
+                        "y": 1400,
+                        "w": 237,
+                        "h": 323
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 76,
+                        "y": 37,
+                        "w": 237,
+                        "h": 323
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "air_recover",
+                    "frame": {
+                        "x": 1593,
+                        "y": 1400,
+                        "w": 233,
+                        "h": 321
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 72,
+                        "y": 39,
+                        "w": 233,
+                        "h": 321
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "down_2",
+                    "frame": {
+                        "x": 1378,
+                        "y": 1041,
+                        "w": 230,
+                        "h": 312
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 57,
+                        "y": 39,
+                        "w": 230,
+                        "h": 312
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "run_2",
+                    "frame": {
+                        "x": 1616,
+                        "y": 1041,
+                        "w": 228,
+                        "h": 310
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 69,
+                        "y": 35,
+                        "w": 228,
+                        "h": 310
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "dashback_1",
+                    "frame": {
+                        "x": 1834,
+                        "y": 1400,
+                        "w": 200,
+                        "h": 317
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 81,
+                        "y": 47,
+                        "w": 200,
+                        "h": 317
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                },
+                {
+                    "filename": "down_4",
+                    "frame": {
+                        "x": 1723,
+                        "y": 336,
+                        "w": 301,
+                        "h": 169
+                    },
+                    "rotated": false,
+                    "trimmed": true,
+                    "spriteSourceSize": {
+                        "x": 49,
+                        "y": 146,
+                        "w": 301,
+                        "h": 169
+                    },
+                    "sourceSize": {
+                        "w": 384,
+                        "h": 384
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "Arena Fighter",
+        "version": "4.0",
+        "frameCount": 26
+    }
+}

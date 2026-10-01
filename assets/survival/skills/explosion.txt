@@ -1,0 +1,1 @@
+Skill icon: a starburst explosion with orange spikes and a bright yellow center, game skill icon. 48x48 pixels. Transparent background. Game UI sprite.
